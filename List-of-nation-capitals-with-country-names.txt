@@ -1,0 +1,200 @@
+Kabul, Afghanistan
+Tirana, Albania
+Algiers, Algeria
+Andorra la Vella, Andorra
+Luanda, Angola
+Saint John's, Antigua and Barbuda
+Buenos Aires, Argentina
+Yerevan, Armenia
+Canberra, Australia
+Vienna, Austria
+Baku, Azerbaijan
+Nassau, Bahamas
+Manama, Bahrain
+Dhaka, Bangladesh
+Bridgetown, Barbados
+Minsk, Belarus
+Brussels, Belgium
+Belmopan, Belize
+Porto Novo, Benin
+Thimphu, Bhutan
+La Paz, Bolivia
+Sarajevo, Bosnia and Herzegovina
+Gaborone, Botswana
+Brasilia, Brazil
+Bandar Seri Begawan, Brunei
+Sofia, Bulgaria
+Ouagadougou, Burkina Faso
+Bujumbura, Burundi
+Phnom Penh, Cambodia
+Yaounde, Cameroon
+Ottawa, Canada
+Praia, Cape Verde
+Bangui, Central African Republic
+N'Djamena, Chad
+Santiago, Chile
+Beijing, China
+Bogota, Colombia
+Moroni, Comoros
+Kinshasa, Congo, Democratic Republic of the
+Brazzaville, Congo, Republic of the
+San Jose, Costa Rica
+Yamoussoukro, Cote d'Ivoire
+Zagreb, Croatia
+Havana, Cuba
+Nicosia, Cyprus
+Prague, Czech Republic
+Copenhagen, Denmark
+Djibouti, Djibouti
+Roseau, Dominica
+Santo Domingo, Dominican Republic
+Dili, East Timor
+Quito, Ecuador
+Cairo, Egypt
+San Salvador, El Salvador
+London, England
+Malabo, Equatorial Guinea
+Asmara, Eritrea
+Tallinn, Estonia
+Addis Ababa, Ethiopia
+Palikir, Federated States of Micronesia
+Suva, Fiji
+Helsinki, Finland
+Paris, France
+Cayenne, French Guiana
+Libreville, Gabon
+Banjul, Gambia
+Tbilisi, Georgia
+Berlin, Germany
+Accra, Ghana
+Athens, Greece
+Saint George's, Grenada
+Guatemala City, Guatemala
+Conakry, Guinea
+Bissau, Guinea-Bissau
+Georgetown, Guyana
+Port au Prince, Haiti
+Tegucigalpa, Honduras
+Budapest, Hungary
+Reykjavik, Iceland
+New Delhi, India
+Jakarta, Indonesia
+Tehran, Iran
+Baghdad, Iraq
+Dublin, Ireland
+Jerusalem, Israel
+Rome, Italy
+Kingston, Jamaica
+Tokyo, Japan
+Amman, Jordan
+Astana, Kazakhstan
+Nairobi, Kenya
+Tarawa Atoll, Kiribati
+Pristina, Kosovo
+Kuwait City, Kuwait
+Bishkek, Kyrgyzstan
+Vientiane, Laos
+Riga, Latvia
+Beirut, Lebanon
+Maseru, Lesotho
+Monrovia, Liberia
+Tripoli, Libya
+Vaduz, Liechtenstein
+Vilnius, Lithuania
+Luxembourg, Luxembourg
+Skopje, Macedonia
+Antananarivo, Madagascar
+Lilongwe, Malawi
+Kuala Lumpur, Malaysia
+Male, Maldives
+Bamako, Mali
+Valletta, Malta
+Majuro, Marshall Islands
+Nouakchott, Mauritania
+Port Louis, Mauritius
+Mexico City, Mexico
+Chisinau, Moldova
+Monaco, Monaco
+Ulaanbaatar, Mongolia
+Podgorica, Montenegro
+Rabat, Morocco
+Maputo, Mozambique
+Nay Pyi Taw, Myanmar
+Windhoek, Namibia
+Kathmandu, Nepal
+Amsterdam, Netherlands
+Wellington, New Zealand
+Managua, Nicaragua
+Niamey, Niger
+Abuja, Nigeria
+Pyongyang, North Korea
+Belfast, Northern Ireland
+Oslo, Norway
+Muscat, Oman
+Islamabad, Pakistan
+Melekeok, Palau
+Panama City, Panama
+Port Moresby, Papua New Guinea
+Asuncion, Paraguay
+Lima, Peru
+Manila, Philippines
+Warsaw, Poland
+Lisbon, Portugal
+Doha, Qatar
+Bucharest, Romania
+Moscow, Russia
+Kigali, Rwanda
+Basseterre, Saint Kitts and Nevis
+Castries, Saint Lucia
+Kingstown, Saint Vincent and the Grenadines
+Apia, Samoa
+San Marino, San Marino
+Sao Tome, Sao Tome and Principe
+Riyadh, Saudi Arabia
+Edinburgh, Scotland
+Dakar, Senegal
+Belgrade, Serbia
+Victoria, Seychelles
+Freetown, Sierra Leone
+Singapore, Singapore
+Bratislava, Slovakia
+Ljubljana, Slovenia
+Honiara, Solomon Islands
+Mogadishu, Somalia
+Pretoria, South Africa
+Seoul, South Korea
+Juba, South Sudan
+Madrid, Spain
+Colombo, Sri Lanka
+Khartoum, Sudan
+Paramaribo, Suriname
+Mbabana, Swaziland
+Stockholm, Sweden
+Bern, Switzerland
+Damascus, Syria
+Taipei, Taiwan
+Dushanbe, Tajikistan
+Dodoma3, Tanzania
+Bangkok, Thailand
+Lome, Togo
+Nuku'alofa, Tonga
+Port of Spain, Trinidad and Tobago
+Tunis, Tunisia
+Ankara, Turkey
+Ashgabat, Turkmenistan
+Funafuti, Tuvalu
+Kampala, Uganda
+Kiev, Ukraine
+Abu Dhabi, United Arab Emirates
+London, United Kingdom
+Washington D.C., United States
+Montevideo, Uruguay
+Tashkent, Uzbekistan
+Port Vila, Vanuatu
+Vatican City, Vatican City
+Caracas, Venezuela
+Hanoi, Vietnam
+Cardiff, Wales
+Sanaa, Yemen
+Lusaka, Zambia
+Harare, Zimbabwe

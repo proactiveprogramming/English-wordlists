@@ -1,0 +1,1810 @@
+400 
+
+
+
+400 Language 
+
+Class here interdisciplinary works on language and literature 
+
+(Option A: To give local emphasis or a shorter number to a specific language, class 
+in 410, where full instructions appear 
+
+(Option B: To give local emphasis or a shorter number to a specific language, place 
+before 420 through use of a letter or other symbol. Full instructions appear under 
+420-490) 
+
+Class the language of a specific discipline or subject with the discipline or subject, 
+using notation 014 from Table 1, e.g., language of science 501.4 
+
+For rhetoric, see 808; literature, 800 
+
+See Manual at T4—864 vs. Tl—014; 400; 400 vs. 800; 400 vs. 900 
+
+401 Philosophy and theory 
+.3 International languages 
+
+Class here universal languages; general discussions of international languages, 
+e.g., diplomatic languages, lingua francas 
+
+Do not use for value; class in 401 
+
+Class artificial languages in 499.99; specific languages with the language in 
+420-490, e.g., Latin as a diplomatic language 470, Swahili as a lingua franca 
+496.392 
+
+.4 Language (Terminology) and communication 
+
+See also 410. 14 for discursive treatment of terminology of linguistics, 
+410.3 for dictionaries of linguistics, 413 for general polyglot dictionaries 
+
+.41 Semiotics 
+
+Former heading: Communication 
+
+Class here content analysis, discourse analysis 
+
+Class interdisciplinary works on semiotics in 302.2, pragmatics in 306.44 
+
+For semantics, see 401.43 
+
+See also 121.68 for semiotics as a topic in philosophy 
+
+[.42] Etymology 
+
+Do not use; class in 412 
+
+
+
+692 
+
+
+
+401 Language 401 
+
+.43 Semantics [formerly 412] 
+
+Class the history of word meanings in 412 
+
+See also 121.68 for semantics as a topic in philosophy, 149. 94 for 
+general semantics as a philosophical school 
+
+See Manual at 401.43 vs. 412, 415, 306.44, 401.9 
+
+[.48] Abbreviations and symbols 
+
+Do not use; class abbreviations and symbols as part of writing systems in 
+41 1, dictionaries of abbreviations and symbols in 413.1 
+
+.5 1 Mathematical principles 
+
+Class here mathematical linguistics 
+
+.9 Psycholinguistics 
+
+Sociolinguistics relocated to 306.44 
+
+Class psychology of bilingualism in 404.2019 
+
+See Manual at 401.43 vs. 412, 415, 306.44, 401. 9 
+
+.93 Language acquisition 
+
+See also 418. 007 for the study and teaching of language, 418. 4019 for 
+the psychology of reading 
+
+See Manual at 407, Tl-07 vs. 410. 7, 418. 007, T4—8007, 401.93 
+
+402 Miscellany 
+
+403 Dictionaries, encyclopedias, concordances 
+
+Class here dictionaries, encyclopedias, concordances that treat comprehensively 
+both language and literature 
+
+Class dictionaries, encyclopedias, concordances of linguistics in 410.3, general 
+polyglot dictionaries in 413 
+
+404 Special topics 
+
+.2 Bilingualism 
+
+Specific instances of bilingualism are classed with the language dominant in the 
+country in which the linguistic interaction occurs, e.g., a discussion of 
+Spanish-English bilingualism in Los Angeles in 420.42610979494. If neither 
+language is dominant, class with the one coming later in the schedules 
+
+See also 306.446 for sociology of bilingualism 
+
+405 Serial publications 
+
+406 Organizations and management 
+
+407 Education, research, related topics 
+
+See Manual at 407, Tl-07 vs. 410. 7, 418. 007, T4-8007, 401.93 
+
+
+
+693 
+
+
+
+408 Dewey Decimal Classification 408 
+
+408 Treatment of language with respect to kinds of persons 
+
+See also 306.44 for sociology of language 
+
+.9 Treatment of language with respect to specific racial, ethnic, national 
+
+groups 
+
+Ethnolinguistics relocated to 306.44089 
+
+409 Geographical and persons treatment 
+
+Language history not limited by area relocated to 417.7 
+Class specific languages and groups of languages in 420-490 
+
+See also 410. 9 for geographical and persons treatment of linguistics 
+
+410 Linguistics 
+
+Science and structure of spoken and written language 
+
+Class here descriptive, synchronic linguistics; comprehensive works on 
+Indo-European languages 
+
+(Option A: To give local emphasis and a shorter number to a specific language, 
+e.g., Russian, class it here and add to base number 41 as instructed under 420-490; 
+in that case class linguistics in 400, its subdivisions in 401-409, standard 
+subdivisions of language and of linguistics in 400.1-400.9. Option B is described 
+under 420-490) 
+
+Class linguistics of specific languages in 420-490 
+
+For specific Indo-European languages, see 420-480 
+
+See Manual at 410; 411-418 
+
+.1-.9 Standard subdivisions of linguistics 
+
+Class standard subdivisions of language and languages in 401-409 
+
+411 Writing systems 
+
+Examples: alphabets, syllabaries, ideographs; braille 
+
+Including abbreviations, acronyms, capitalization, punctuation, spelling, 
+transliteration 
+
+See also 652 for practical works on how to write by hand or machine, e.g., 
+penmanship 652. 1 
+
+.7 Paleography [formerly 417.7] 
+
+Study of ancient and medieval styles of writing 
+
+412 Etymology 
+
+Semantics other than the history of word meanings relocated to 401 .43 
+
+Class comprehensive works on historical linguistics in 417.7; specific aspects of 
+etymology with the aspect, e.g., phonetic development of words 414 
+
+See Manual at 401.43 vs. 412, 415, 306.44, 401.9 
+
+
+
+694 
+
+
+
+413 Linguistics 413 
+
+413 Dictionaries 
+
+Class here polyglot dictionaries 
+.028 Techniques, procedures, apparatus, equipment, materials 
+
+Class here lexicography 
+.1 Specialized dictionaries 
+
+Examples: dictionaries of abbreviations and acronyms; picture dictionaries 
+
+.2- .9 Polyglot dictionaries with entry words or definitions in only one 
+language 
+
+Add to base number 413 notation 2-9 from Table 6, e.g., a dictionary with 
+terms in English, French, and German, but with definitions only in English 
+413.21 
+
+414 Phonology 
+
+Class here phonetics 
+
+Class comprehensive works on phonology and morphology or syntax in 415 
+.6 Suprasegmental features 
+
+Vocal effects extending over more than one sound element 
+Examples: juncture (pauses), pitch, stress 
+Class here intonation 
+
+See Manual at 808. 1 vs. 414. 6 
+
+415 Structural systems (Grammar) 
+
+Historical and descriptive study of morphology and syntax 
+
+Including generative and transformational grammar 
+
+Class here comprehensive works on morphology, syntax, and phonology 
+
+For phonology, see 414 
+
+See also 418 for prescriptive grammar 
+
+See Manual at 401.43 vs. 412, 415, 306.44, 401. 9 
+
+[416] [Unassigned] 
+
+Most recently used in Edition 18 
+
+
+
+695 
+
+
+
+417 Dewey Decimal Classification 417 
+
+417 Dialectology and historical (diachronic) linguistics 
+
+.2 Dialectology 
+
+Including the study of nongeographical language variations, e.g., slang and 
+jargon 
+
+Class here the study of geographical language variations 
+
+.22 Pidgins and Creoles 
+
+Standard subdivisions are added for either or both of the topics named in the 
+heading 
+
+See Manual at T4—7 
+
+.7 Historical (Diachronic) linguistics 
+
+Study of the development of language over time 
+
+Class here language history not limited by area [formerly also 409], language 
+change 
+
+Paleography relocated to 41 1.7 
+
+Class change in and the history of specific elements of language with the 
+element, e.g., grammar 415 
+
+See also 409 for geographical treatment of language history, 410. 9 for the 
+history of linguistics 
+
+See Manual at 410 
+
+418 Standard usage (Prescriptive linguistics) Applied 
+linguistics 
+
+Including multilingual phrase books 
+
+Use 418.001-418.009 for standard subdivisions 
+
+Class dictionaries and lexicography in 413 
+
+See Manual at 407, Tl-07 vs. 410. 7, 418. 007, T4-8007, 401.93 
+
+.02 Translation and interpretation 
+
+Standard subdivisions are added for either or both of the topics named in the 
+heading, e.g., computerized translation 418.020285 
+
+.4 Reading 
+
+419 Structured verbal language other than spoken and written 
+
+Class here manual language for the deaf 
+
+Class nonlinguistic (nonstructured) communication in 302.222 
+
+
+
+696 
+
+
+
+420 Specific languages 420 
+
+
+
+420-490 Specific languages 
+
+Class here comprehensive works on specific languages and their literatures 
+
+(Option B: To give local emphasis and a shorter number to a specific language, 
+place it first by use of a letter or other symbol, e.g., Arabic language 4A0 
+[preceding 420], for which the base number is 4 A. Option A is described under 
+410) 
+
+Except for additions, changes, deletions, exceptions shown under specific 
+entries, add to base number for each language identified by * notation 01-86 
+from Table 4, e.g., grammar of Yoruba 496.3335. The base number is the 
+number given for the language unless the schedule specifies a different number 
+
+(Option: For any group of languages, add notation 04 to the base number and 
+then add notation 01-86 from Table 4, e.g., grammar of Macro-Penutian 
+languages 497.4045) 
+
+The numbers used in this schedule for individual languages do not necessarily 
+correspond exactly with those in 810-890 or with the notation in Table 6. Use 
+notation from Table 6 only when so instructed, e.g., at 494.1-494.3 
+
+Class comprehensive works in 410 
+
+For literatures of specific languages, see 810-890 
+
+See Manual at 420-490 
+
+
+
+> 420-480 Specific Indo-European languages 
+
+Class comprehensive works in 410 
+
+For East Indo-European and Celtic languages, see 491 
+
+420 f English and Old English (Anglo-Saxon) 
+
+Base number for English: 42 
+
+Special interpretations of and exceptions to Table 4 for use with English appear 
+below under 421-428 
+
+421 f Writing system and phonology of standard English 
+
+.52 Spelling (Orthography) and pronunciation 
+
+Including standard Canadian spelling and pronunciation 
+
+Class here description and analysis of the nature, history, and function of 
+spelling and pronunciation of English 
+
+Class comprehensive works on writing systems for English in 421.1, 
+specialized spelling and pronouncing dictionaries in 423.1, training in 
+standard pronunciation in 428.1 
+
+For standard American (U.S.) spelling and pronunciation, see 421.54; 
+standard British spelling and pronunciation, 421.55 
+
+t Add to 42 as instructed under 420-490 
+
+697 
+
+
+
+421 Dewey Decimal Classification All 
+
+.54 Standard American (U.S.) spelling and pronunciation 
+
+.55 Standard British spelling and pronunciation 
+
+422 tEtymology of standard English 
+
+423 tDictionaries of standard English 
+[424] [Unassigned] 
+
+Most recently used in Edition 16 
+
+425 Structural system (Grammar) of standard English 
+[426] [Unassigned] 
+
+Most recently used in Edition 18 
+
+427 Historical and geographical variations, modern 
+nongeographical variations 
+
+Use 427.001-427.009 for standard subdivisions 
+
+For Old English (Anglo-Saxon), see 429 
+
+.02 Middle English, 1 1 00- 1 500 
+
+.09 Modern nongeographical variations 
+
+Examples: ephemera, slang 
+
+.1.8 Geographical variations in England 
+
+Add to 427 the numbers following —42 in notation 421-428 from Table 2, e.g., 
+dialects of London 427.1 
+
+Geographical variations in Scotland, Wales, and Ireland are classed in 427.9 
+plus the appropriate notation from Table 2, e.g., dialects of North Wales 
+427.94291 
+
+.9 Geographical variations in other places 
+
+Class here pidgins, Creoles 
+
+Add to 427.9 notation 4-9 from Table 2, e.g., Tok Pisin 427.9953, dialects of 
+Canada 427.971 
+
+428 tStandard English usage (Prescriptive 
+
+linguistics) Applied linguistics 
+
+Class here Basic English 
+
+429 *01d English (Anglo-Saxon) 
+
+See also 427. 02 for Middle English 
+
+430 Germanic (Teutonic) languages German 
+
+For English and Old English (Anglo-Saxon), see 420 
+
+*Add to base number as instructed under 420-490 
+t Add to 42 as instructed under 420-490 
+
+698 
+
+
+
+430 Germanic (Teutonic) languages German 430 
+
+
+
+.01 -.09 Standard subdivisions of Germanic (Teutonic) languages 
+
+
+
+> 430.1-438.6 Subdivisions of ^German language 
+
+Base number: 43 
+
+Class comprehensive works in 430 
+
+431 ^Writing systems and phonology of standard German 
+
+432 i Etymology of standard German 
+
+433 ^Dictionaries of standard German 
+[434] [Unassigned] 
+
+Most recently used in Edition 16 
+
+435 Structural system (Grammar) of standard German 
+[436] [Unassigned] 
+
+Most recently used in Edition 18 
+
+437 Historical and geographical variations, modern 
+nongeographical variations 
+
+Use 437.001-437.009 for standard subdivisions 
+
+Class Old Low German in 439. 1 , Middle and Modern Low German in 439.4 
+
+.01 Old High German to 1 1 00 
+
+.02 Middle High German and early New High German, 1 100-1500 
+
+.09 Modern nongeographical variations 
+
+Examples: ephemera, slang 
+
+.1-.6 Geographical variations in Germany and Austria 
+
+Add to 437 the numbers following —43 in notation 431-436 from from 
+Table 2, e.g., dialects of Bavaria 437.3 
+
+.9 Geographical variations in other places 
+
+Add to 437.9 notation 4-9 from Table 2, e.g., Yiddish 437.947 
+
+438 ^Standard German usage (Prescriptive 
+
+linguistics) Applied linguistics 
+
+439 Other Germanic (Teutonic) languages 
+
+
+
+> 439.1-439.4 West Germanic languages 
+
+Class comprehensive works in 439 
+| Add to 43 as instructed under 420-490 
+
+
+
+699 
+
+
+
+439 Dewey Decimal Classification 439 
+
+.1 Old Low Germanic languages 
+
+Examples: Old Frisian, Old Low Franconian, Old Low German, Old Saxon 
+
+
+
+439.2-439.4 Modern Low Germanic languages 
+
+Class comprehensive works in 439 
+.2 *Frisian 
+
+.3 Netherlandish languages 
+
+.31 *Dutch 
+
+Class here Flemish [formerly 439.32] 
+[.32] Flemish 
+
+Relocated to 439.31 
+.36 *Afrikaans 
+
+.4 *Low German (Plattdeutsch) 
+
+.5 Scandinavian (North Germanic) languages 
+
+For specific Scandinavian languages, see 439. 6-439. 8 
+
+
+
+439.6-439.8 Specific Scandinavian languages 
+
+Class comprehensive works in 439.5 
+.6 West Scandinavian languages Old Norse (Old Icelandic) 
+
+.600 1-.600 9 Standard subdivisions of West Scandinavian languages 
+
+.601-.686 Subdivisions of *01d Norse (Old Icelandic) 
+
+Base number: 439.6 
+.69 Modern West Scandinavian languages Modern Icelandic 
+
+.690 01 -.690 09 Standard subdivisions of modern West Scandinavian languages 
+
+.690 1-.698 6 Subdivisions of *Modern Icelandic 
+
+Base number: 439.69 
+.699 *Faeroese 
+
+
+
+> 439.7-439.8 East Scandinavian languages 
+
+Class comprehensive works in 439.5 
+.7 *Swedish 
+
+.8 Danish and Norwegian 
+
+*Add to base number as instructed under 420-490 
+
+
+
+700 
+
+
+
+439 Germanic (Teutonic) languages German 439 
+
+.81 *Danish 
+
+Class Dano-Norwegian in 439.82 
+.82 *Norwegian (Bokmal, Riksmai) 
+
+Class here Dano-Norwegian, comprehensive works on Norwegian 
+For New Norse, see 439. 83 
+.83 *Norwegian (New Norse, Landsmal) 
+
+Class comprehensive works on Norwegian in 439.82 
+.9 East Germanic languages 
+
+Examples: Burgundian, Gothic, Vandalic 
+
+440 Romance languages French 
+
+For Italian, Romanian, Rhaeto-Romanic , see 450; Spanish and Portuguese, 
+460 
+
+.01 -.09 Standard subdivisions of Romance languages 
+
+
+
+> 440.1-448.6 Subdivisions of f French language 
+
+Base number: 44 
+
+Class comprehensive works in 440 
+
+441 tWriting system and phonology of standard French 
+
+442 fEtymology of standard French 
+
+443 t Dictionaries of standard French 
+[444] [Unassigned] 
+
+Most recently used in Edition 16 
+
+445 Structural system (Grammar) of standard French 
+[446] [Unassigned] 
+
+Most recently used in Edition 18 
+
+447 Historical and geographical variations, modern 
+nongeographical variations 
+
+Use 447.001-447.009 for standard subdivisions 
+
+.01 Old French to 1400 
+
+.02 Middle French, 1 400- 1 600 
+
+*Add to base number as instructed under 420-490 
+t Add to 44 as instructed under 420-490 
+
+
+
+701 
+
+
+
+447 Dewey Decimal Classification 447 
+
+.09 Modern nongeographical variations 
+
+Examples: ephemera, slang 
+
+.1-.8 Geographical variations in France 
+
+Add to 447 the numbers following —44 in notation 441-448 from Table 2, e.g., 
+dialects of southern France (Langue d'oc) 447.8 
+
+Class dialects of southeastern France (Provencal) in 449 
+
+.9 Geographical variations in other places 
+
+Class here pidgins, Creoles 
+
+Add to 447.9 notation 4-9 from Table 2, e.g., dialects of Quebec 447.9714, 
+Haitian Creole 447.97294 
+
+448 tStandard French usage (Prescriptive 
+
+linguistics) Applied linguistics 
+
+449 *Proven£al and Catalan 
+
+Base number for Provencal: 449 
+.9 *Catalan 
+
+450 ^Italian, Romanian, Rhaeto-Romanic languages 
+
+Base number for Italian: 45 
+
+451 $ Writing system and phonology of standard Italian 
+
+452 ^Etymology of standard Italian 
+
+453 ^Dictionaries of standard Italian 
+[454] [Unassigned] 
+
+Most recently used in Edition 16 
+
+455 Structural system (Grammar) of standard Italian 
+[456] [Unassigned] 
+
+Most recently used in Edition 18 
+
+457 Historical and geographical variations, modern 
+nongeographical variations 
+
+Use 457.001-457.009 for standard subdivisions 
+
+.01 Old Italian to 1300 
+
+.02 Middle Italian, 1 300- 1 600 
+
+*Add to base number as instructed under 420-490 
+t Add to 44 as instructed under 420-490 
+$Add to 45 as instructed under 420-490 
+
+
+
+702 
+
+
+
+457 Italian, Romanian, Rhaeto-Romanic languages 457 
+
+.09 Modern nongeographical variations 
+
+Examples: ephemera, slang 
+
+.1-.7 Geographical variations in continental Italy 
+
+Add to 457 the numbers following —45 in notation 451-457 from Table 2, e.g., 
+dialects of Lombardy 457.2 
+
+.8 Geographical variations in Sicily 
+
+Add to 457.8 the numbers following —458 in notation 4581-4582 from 
+Table 2, e.g., dialects of Palermo 457.823 
+
+.9 Other geographical variations 
+
+.91-.94 In Sardinia 
+
+Add to 457.9 the numbers following —459 in notation 4591-4594 from 
+Table 2, e.g., dialects of Cagliari 457.91 
+
+.95 In Corsica 
+
+.99 In other places 
+
+Add to 457.99 notation 4-9 from Table 2, e.g., dialects in Ticino Canton of 
+Switzerland 457.9949478 
+
+458 ^Standard Italian usage (Prescriptive linguistics) Applied 
+
+linguistics 
+
+459 ^Romanian and Rhaeto-Romanic 
+
+Base number for Romanian: 459 
+.9 Rhaeto-Romanic languages 
+
+Examples: Friulian, Ladin, Romansh 
+
+460 Spanish and Portuguese languages 
+
+.01-. 09 Standard subdivisions for comprehensive works on Spanish and 
+Portuguese 
+
+
+
+> 460.1-468.6 Subdivisions of f Spanish language 
+
+Base number: 46 
+
+Class comprehensive works in 460 
+
+461 tWriting system and phonology of standard Spanish 
+
+462 tEty mology of standard Spanish 
+
+463 ^Dictionaries of standard Spanish 
+
+*Add to base number as instructed under 420-490 
+t Add to 46 as instructed under 420-490 
+$Add to 45 as instructed under 420-490 
+
+
+
+703 
+
+
+
+464 Dewey Decimal Classification 464 
+[464] [Unassigned] 
+
+Most recently used in Edition 16 
+
+465 Structural system (Grammar) of standard Spanish 
+[466] [Unassigned] 
+
+Most recently used in Edition 18 
+
+467 Historical and geographical variations, modern 
+nongeographical variations 
+
+Use 467.001-467.009 for standard subdivisions 
+
+.01 Old Spanish to 1100 
+
+.02 Middle Spanish, 1 100- 1600 
+
+.09 Modern nongeographical variations 
+
+Examples: ephemera, slang 
+
+.1-.8 Geographical variations in Spain 
+
+Add to 467 the numbers following —46 in notation 461-468 from Table 2, e.g., 
+dialects of Andalusia 467.8 
+
+.9 Geographical variations in other places 
+
+Class here pidgins, Creoles 
+
+Add to 467.9 notation 4-9 from Table 2, e.g., Judeo-Spanish (Ladino) 
+467.9496, Papiamento 467.972986, Latin American dialects 467.98 
+
+468 tStandard Spanish usage (Prescriptive 
+
+linguistics) Applied linguistics 
+
+469 *Portuguese 
+
+.7 Historical and geographical variations, modern nongeographical 
+
+variations 
+
+Use 469.7001-469.7009 for standard subdivisions 
+
+.70 1 Old Portuguese to 1 1 00 
+
+.702 Middle Portuguese, 1 100-1600 
+
+.709 Modern nongeographical variations 
+
+Examples: ephemera, slang 
+
+.7 1- .76 Geographical variations in continental Portugal 
+
+Add to 469.7 the numbers following —469 in notation 4691-4696 from 
+Table 2, e.g., dialects of Lisbon 469.7425 
+
+.78 Geographical variations in Madeira 
+
+*Add to base number as instructed under 420-490 
+t Add to 46 as instructed under 420-490 
+
+704 
+
+
+
+469 Spanish and Portuguese languages 469 
+
+.79 Other geographical variations 
+
+Class here pidgins, Creoles 
+
+.791 In Azores 
+
+.794 In Spain 
+
+Class here comprehensive works on Galician (Gallegan) 
+Class Galician dialects in Portugal in 469.71-469.72 
+
+.798 In Brazil 
+
+Add to 469.798 the numbers following —81 in notation 811-817 from 
+Table 2, e.g., dialects of Sao Paulo 469.79861 
+
+.799 In other places 
+
+Add to 469.799 notation 4-9 from Table 2, e.g., dialects of 
+Guinea-Bissau 469.7996657 
+
+See also 467. 972986 for Papiamento 
+
+470 Italic languages Latin 
+
+Class comprehensive works on Latin and Greek in 480 
+For Romance languages, see 440 
+See Manual at 470 
+.01 -.09 Standard subdivisions of Italic languages 
+
+
+
+> 470.1-478.6 Subdivisions of $Latin language 
+
+Base number: 47 
+
+Class comprehensive works in 470 
+
+471 ^Writing system and phonology of classical Latin 
+
+472 ^Etymology of classical Latin 
+
+473 % Dictionaries of classical Latin 
+[474] [Unassigned] 
+
+Most recently used in Edition 16 
+
+475 Structural system (Grammar) of classical Latin 
+[476] [Unassigned] 
+
+Most recently used in Edition 1 8 
+
+477 Old (Preclassical), Postclassical, Vulgar Latin 
+
+$Add to 47 as instructed under 420-490 
+
+
+
+705 
+
+
+
+478 Dewey Decimal Classification 478 
+
+478 ^Classical Latin usage (Prescriptive linguistics) Applied 
+
+linguistics 
+
+Class here classical-revival Latin usage of medieval or modem times 
+
+479 Other Italic languages 
+
+.4- .9 Specific languages 
+
+Add to 479 the numbers following —79 in notation 794-799 from Table 6, e.g., 
+Umbrian 479.9 
+
+480 Hellenic languages Classical Greek 
+
+Classical Greek: the Greek that flourished between 750 and 350 B.C. 
+
+Class here comprehensive works on classical languages 
+For Latin, see 470 
+.01-. 09 Standard subdivisions of classical languages 
+.1-.9 Standard subdivisions of Hellenic languages, of classical Greek 
+
+
+
+> 481-488 Subdivisions of tclassical, preclassical, 
+
+postclassical Greek 
+
+Base number: 48 
+
+Dialects of classical Greek are classed in the numbers for classical Greek 
+(480.1-485,488) 
+
+Special interpretations of and exceptions to Table 4 for use with Greek appear 
+below 
+
+Class comprehensive works in 480 
+
+481 f Writing systems and phonology of classical Greek 
+
+.1 Writing systems 
+
+Class here paleography of classical Greek [formerly 481.7], comprehensive 
+works on Greek paleography 
+
+Class paleography of preclassical and postclassical Greek in 487.1 
+
+[.7] Paleography 
+
+Paleography of classical Greek relocated to 481.1; of preclassical Greek, 
+Minoan Linear B to 487.1 
+
+482 tEtymology of classical Greek 
+
+483 tDictionaries of classical Greek 
+
+t Add to 48 as instructed under 420-490 
+$ Add to 47 as instructed under 420-490 
+
+
+
+706 
+
+
+
+484 Hellenic languages Classical Greek 484 
+[484] [Unassigned] 
+
+Most recently used in Edition 16 
+
+485 Structural system (Grammar) of classical Greek 
+[486] [Unassigned] 
+
+Most recently used in Edition 1 8 
+
+487 Preclassical and postclassical Greek 
+
+.1 Preclassical Greek 
+
+Including paleography of preclassical Greek, Minoan Linear B [both formerly 
+481.7] 
+
+See also 492. 6 for Minoan Linear A 
+
+.3 Postclassical Greek 
+
+Including Byzantine Greek 
+
+For Koine, see 487. 4 
+
+.4 Koine (Hellenistic Greek) 
+
+Class here Biblical Greek 
+
+488 tClassical Greek usage (Prescriptive linguistics) Applied 
+
+linguistics 
+
+489 Other Hellenic languages 
+.3 *Modern Greek 
+
+Examples: Demotic, Katharevusa 
+
+490 Other languages 
+
+SUMMARY 
+
+491 East Indo-European and Celtic languages 
+
+492 Afro-Asiatic (Hamito-Semitic) languages Semitic languages 
+
+493 Non-Semitic Afro-Asiatic languages 
+
+494 Ural-Altaic, Paleosiberian, Dravidian languages 
+
+495 Sino-Tibetan and other languages of East and Southeast Asia 
+
+496 African languages 
+
+497 North American native languages 
+
+498 South American native languages 
+
+499 Nonaustronesian languages of Oceania, Austronesian languages, miscellaneous 
+
+languages 
+
+*Add to base number as instructed under 420-490 
+t Add to 48 as instructed under 420-490 
+
+
+
+707 
+
+
+
+491 Dewey Decimal Classification 491 
+
+491 East Indo-European and Celtic languages 
+
+
+
+
+
+SUMMARY 
+
+
+491.1 
+
+
+Indo-Iranian (Aryan) languages 
+
+
+.2 
+
+
+Sanskrit 
+
+
+.3 
+
+
+Middle Indie languages (Secondary Prakrits) 
+
+
+.4 
+
+
+Modern Indie languages (Tertiary Prakrits) 
+
+
+.5 
+
+
+Iranian languages 
+
+
+.6 
+
+
+Celtic languages 
+
+
+.7 
+
+
+East Slavic languages Russian 
+
+
+.8 
+
+
+Slavic languages 
+
+
+.9 
+
+
+Baltic and other Indo-European languages 
+
+
+
+Indo-Iranian (Aryan) languages 
+
+For Indie (Indo-Aryan) languages, see 491.2-491 .4; Iranian languages, 
+491.5 
+
+
+
+> 491.2-491.4 Indie (Indo-Aryan) languages 
+
+Class comprehensive works in 491.1 
+.2 *Sanskrit 
+
+Including Vedic (Old Indie) 
+.3 Middle Indie languages (Secondary Prakrits) 
+
+Class here comprehensive works on Prakrit languages 
+
+Class tertiary Prakrits in 491.4 
+.37 *Pali 
+
+.4 Modern Indie languages (Tertiary Prakrits) 
+
+.41 *Sindhi and Lahnda 
+
+Base number for Sindhi: 491.41 
+.419 *Lahnda 
+
+.42 *Panjabi 
+
+.43 Western Hindi languages Hindi 
+
+.430 01 -.430 09 Standard subdivisions of Western Hindi languages 
+
+.430 1-.438 6 Subdivisions of *Hindi 
+
+Base number: 491.43 
+.439 *Urdu 
+
+.44 *Bengali 
+
+Class Assamese in 491.451 
+
+*Add to base number as instructed under 420-490 
+
+
+
+708 
+
+
+
+491 Other languages 491 
+
+.45 Assamese, Bihari, Oriya 
+
+.45 1 * Assamese 
+
+.454 *Bihari 
+
+.454 7 Historical and geographical variations, modem nongeographical 
+
+variations 
+
+Examples: Bhojpuri, Magahi, Maithili 
+
+.46 *Marathi 
+
+.467 Historical and geographical variations, modern nongeographical 
+
+variations 
+
+Example: Konkani 
+
+.47 *Gujarati and Rajasthani 
+
+Base number for Gujarati: 491.47 
+
+.479 *Rajasthani 
+
+.479 7 Historical and geographical variations, modem nongeographical 
+
+variations 
+
+Examples: Jaipuri, Marwari 
+
+.48 Sinhalese-Maldivian languages *Sinhalese 
+
+.487 Historical and geographical variations, modern nongeographical 
+
+variations 
+
+Example: Divehi (Maldivian) 
+
+.49 Other Indie (Indo- Aryan) languages 
+
+Examples: Eastern Hindi, Nepali, Pahari 
+
+Including Awadhi, Bagheli, Chattisgarhi 
+
+See also 495.49 for Himalayan languages, e.g., Newari 
+
+.499 Dardic (Pisacha) languages 
+
+Examples: Kashmiri, Khowar, Kohistani, Shina 
+
+Including Nuristani (Kafiri), Romany (Gypsy) 
+
+.5 Iranian languages 
+
+.51 *01d Persian 
+
+Class here ancient West Iranian languages 
+
+See also 491.52 for Avestan language 
+
+.52 *Avestan 
+
+Class here ancient East Iranian languages 
+
+.53 Middle Iranian languages 
+
+Examples: Khotanese (Saka), Pahlavi (Middle Persian), Sogdian 
+
+*Add to base number as instructed under 420-490 
+
+709 
+
+
+
+491 Dewey Decimal Classification 491 
+
+.55 *Modern Persian (Farsi) 
+
+Class Tajik in 491.59 
+.59 Other modern Iranian languages 
+
+Examples: Baluchi, Kurdish, Ossetic, Tajik, Yaghnobi 
+
+.593 Pamir (Galcha) languages *Pashto (Afghan) 
+
+.6 Celtic languages 
+
+Example: Gaulish 
+
+.62 *Irish Gaelic 
+
+.63 *Scottish Gaelic 
+
+.64 *Manx 
+
+.66 *Welsh (Cymric) 
+
+.67 *Cornish 
+
+.68 *Breton 
+
+.7 East Slavic languages Russian 
+
+.700 1-.700 9 Standard subdivisions of East Slavic languages 
+
+.701-.786 Subdivisions of *Russian 
+
+Base number: 491.7 
+
+.77 Historical and geographical variations, modern nongeographical 
+
+variations 
+
+Use 491.77001-491.77009 for standard subdivisions 
+
+.770 1 Old Russian to 1550 
+
+.770 2 Middle Russian, 1550-1750 
+
+.770 9 Modern nongeographical variations 
+
+Examples: ephemera, slang 
+
+.774-. 779 Geographical variations 
+
+Add to 491.77 notation 4-9 from Table 2, e.g., dialects of Far Eastern 
+Siberia 491.77577 
+
+.79 *Ukrainian and Belorussian 
+
+Base number for Ukrainian: 491.79 
+
+.799 *Belorussian 
+
+*Add to base number as instructed under 420-490 
+
+
+
+710 
+
+
+
+49 1 Other languages 49 1 
+
+.8 Slavic languages 
+
+Example: Common Slavic 
+
+Class here comprehensive works on Balto-Slavic languages 
+
+For East Slavic languages, see 491 . 7; Baltic languages, 491 . 9 
+
+.81 South Slavic languages Bulgarian 
+
+For Serbo-Croatian, see 491.82; Slovenian, 491.84 
+
+.810 01 -.8 10 09 Standard subdivisions of South Slavic languages 
+
+.810 1— .818 6 Subdivisions of *Bulgarian 
+
+Base number: 491.81 
+
+.817 Historical and geographical variations, modern nongeographical 
+
+variations 
+
+Use 491.817001-491.817009 for standard subdivisions 
+
+.817 01 Old Bulgarian (Church Slavonic) 
+
+.819 *Macedonian 
+
+.82 * Serbo-Croatian 
+
+.84 *Slovenian 
+
+.85 West Slavic languages Polish 
+
+Example: Kashubian 
+
+For Czech, see 491.86; Slovak, 491.87; Wendish, 491.88; Polabian, 
+491.89 
+
+.850 01-. 850 09 Standard subdivisions of West Slavic languages 
+
+.850 1-.858 6 Subdivisions of *Polish 
+
+Base number: 491.85 
+
+.857 Historical and geographical variations, modern nongeographical 
+
+variations 
+
+Use of this number for Kashubian discontinued; class in 491.85 
+.86 *Czech 
+
+For Moravian dialects, see 491.87 
+.87 *Slovak 
+
+Including Moravian dialects 
+.88 *Wendish (Sorbian, Lusatian) 
+
+.89 *Polabian 
+
+*Add to base number as instructed under 420-490 
+
+
+
+711 
+
+
+
+491 Dewey Decimal Classification 491 
+
+.9 Baltic and other Indo-European languages 
+
+
+
+
+
+491.91-491.93 Baltic languages 
+
+
+
+
+Class comprehensive works in 491.9 
+
+
+.91 
+
+
+Old Prussian 
+
+
+.92 
+
+
+*Lithuanian 
+
+
+.93 
+
+
+*Latvian (Lettish) 
+
+
+.99 
+
+
+Other Indo-European languages 
+
+
+.991 
+
+
+*Albanian 
+
+
+.992 
+
+
+*Armenian 
+
+
+.993- 
+
+
+.998 Other 
+
+
+
+Add to 491.99 the numbers following —9199 in notation 91993-91998 
+from Table 6, e.g., Tocharian language 491.994 
+
+Base number for *Hittite: 491.998 
+
+492 Afro-Asiatic (Hamito-Semitic) languages Semitic 
+languages 
+
+For non-Semitic Afro-Asiatic languages, see 493 
+.1 East Semitic languages Akkadian (Assyro-Babylonian) 
+
+Including Assyrian, Babylonian, Chaldean dialects of Akkadian 
+See also 492.2 for Aramaic, 499. 95 for Sumerian 
+
+
+
+492.2-492.9 West Semitic languages 
+
+Class comprehensive works in 492 
+
+
+
+> 492.2-492.6 Northwest Semitic languages 
+
+Class comprehensive works in 492 
+.2 Aramaic languages 
+
+For Eastern Aramaic languages, see 492. 3 
+.29 Western Aramaic languages 
+
+Former heading: Biblical Aramaic (Chaldee) and Samaritan 
+.3 Eastern Aramaic languages *Syriac 
+
+*Add to base number as instructed under 420-490 
+
+
+
+712 
+
+
+
+492 Other languages 492 
+
+.4 *Hebrew 
+
+.47 Historical and geographical variations, modern nongeographical 
+
+variations 
+
+Ammonite, Moabite languages relocated to 492.6 
+
+.6 Canaanite-Phoenician languages 
+
+Examples: Ammonite, Moabite [both formerly 492.47], Eblaite, Punic, 
+Ugaritic, the language of Minoan Linear A 
+
+Class here comprehensive works on Canaanitic languages 
+
+For Hebrew, see 492. 4 
+
+See also 487. 1 for Minoan Linear B, 499. 95 for Sumerian 
+
+
+
+> 492.7-492.9 Southwest Semitic languages 
+
+Class comprehensive works in 492 
+.7 North Arabic languages *Arabic 
+
+Base number for Arabic: 492.7 
+
+See also 492.9 for South Arabic languages 
+
+.11 Historical and geographical variations, modern nongeographical 
+
+variations 
+
+Example: Maltese 
+.8 Ethiopic languages 
+
+Examples: Geez, Gurage, Harari, Tigre, Tigrinya 
+.87 *Amharic 
+
+.877 Nonstandard Amharic 
+
+Example: Argobba dialect 
+.9 South Arabic languages 
+
+Examples: Mahri, Qarawi, Shkhauri, Sokotri 
+See also 492. 7 for North Arabic languages 
+
+493 Non-Semitic Afro-Asiatic languages 
+
+Former heading: Hamitic and Chad languages 
+
+Add to 493 the numbers following —93 in notation 931-937 from Table 6, e.g., 
+Oromo (Galla) 493.5 
+
+Base number for *Coptic: 493.2 
+
+Base number for *Hausa: 493.72 
+
+*Add to base number as instructed under 420-490 
+
+
+
+713 
+
+
+
+494 Dewey Decimal Classification 494 
+
+494 Ural-Altaic, Paleosiberian (Hyperborean), Dravidian 
+languages 
+
+Add to base number 494 the numbers following —94 in —941-948 from Table 6, 
+e.g., Mongolian 494.2 
+
+Base number for *Turkish (Osmanli): 494.35 
+
+Base number for * Azerbaijani: 494.361 
+
+Base number for *Hungarian (Magyar): 494.51 1 
+
+Base number for * Finnish (Suomi): 494.541 
+
+Base number for *Estonian: 494.545 
+
+Base number for *Lapp: 494.55 
+
+Base number for *Tamil: 494.81 1 
+
+Base number for *Malayalam: 494.812 
+
+Base number for *Kannada (Kanarese): 494.814 
+
+Base number for *Gondi: 494.823 
+
+Base number for *Khond (Kandh): 494.824 
+
+Base number for *Telugu: 494.827 
+
+Base number for *Brahui: 494.83 
+
+Class Japanese in 495.6, Korean in 495.7 
+
+See also 497. 1 for Inuit-Aleut languages 
+
+495 Languages of East and Southeast Asia Sino-Tibetan 
+languages 
+
+Examples: Karen, Miao (Hmong), Yao 
+
+Here are classed South Asian languages closely related to the languages of East 
+and Southeast Asia 
+
+For Malay languages, see 499. 2 
+
+.1 *Chinese 
+
+Base number for Mandarin (Putonghua) (standard written Chinese): 495.1 
+
+.17 Historical and geographical variations, modern nongeographical 
+
+variations 
+
+Examples: Amoy, Cantonese, Foochow, Hakka, Pekingese (Beijing), 
+Swatow, Wu dialects 
+
+*Add to base number as instructed under 420-490 
+
+
+
+714 
+
+
+
+495 Other languages 495 
+
+.4 Tibeto-Burman languages Tibetan 
+
+Including the Bodo-Naga-Kachin, Kuki-Chin, Loloish groups 
+
+For Burmese, see 495.8 
+
+.400 1-.400 9 Standard subdivisions of Tibeto-Burman languages 
+
+.40 1 - .486 Subdivisions of *Tibetan 
+
+Base number: 495.4 
+
+.49 Himalayan (Gyarung-Misbmi) languages 
+
+Example: Newari 
+
+See also 491 . 49 for Nepali 
+
+.6 *Japanese 
+
+.7 *Korean 
+
+.8 *Burmese 
+
+.9 Miscellaneous languages of Southeast Asia; Munda languages 
+
+Limited to the languages provided for below 
+
+.9 1 Thai (Tai) languages Thai (Siamese) 
+
+.910 01-. 9 10 09 Standard subdivisions of Thai (Tai) languages 
+
+.9 1 1 - .9 1 8 6 Subdivisions of *Thai (Siamese) 
+
+Base number: 495.91 
+
+.919 Other Thai (Tai) languages 
+
+Examples: Ahom, Khamti, Lao, Shan 
+
+Use of this number for Karen discontinued; class in 495 
+
+For Annam-Muong languages, see 495. 92 
+
+.92-. 95 Annam-Muong, Mon-Khmer, Munda languages 
+
+Add to 495.9 the numbers following —959 in notation 9592-9595 from 
+Table 6, e.g., Wa 495.93 
+
+Base number for * Vietnamese (Annamese): 495.922 
+
+Base number for *Khmer (Cambodian): 495.932 
+
+*Add to base number as instructed under 420-490 
+
+
+
+715 
+
+
+
+496 Dewey Decimal Classification 496 
+
+496 African languages 
+
+Add to 496 the numbers following —96 in notation 961-969 from Table 6, e.g., 
+Bambara 496.34 
+
+Base number for *Wolof: 496.3214 
+
+Base number for *Fulani (Fulah): 496.322 
+
+Base number for *Ibo (Igbo): 496.332 
+
+Base number for *Yoruba: 496.333 
+
+Base number for *Ewe: 496.3374 
+
+Base number for *Akan: 496.3385 
+
+Base number for *Bemba: 496.3915 
+
+Base number for *Nyanja: 496.3918 
+
+Base number for *Swahili: 496.392 
+
+Base number for *Kongo: 496.393 1 
+
+Base number for *Ruanda: 496.39461 
+
+Base number for *Rundi: 496.39465 
+
+Base number for *Kikuyu: 496.3954 
+
+Base number for *Ganda (Luganda): 496.3957 
+
+Base number for *Lingala: 496.39686 
+
+Base number for *Shona: 496.3975 
+
+Base number for *Northern Sotho: 496.39771 
+
+Base number for *Southern Sotho: 496.39772 
+
+Base number for *Tswana: 496.39775 
+
+Base number for *Xhosa: 496.3985 
+
+Base number for *Zulu: 496.3986 
+
+For Ethiopic languages, see 492. 8; non-Semitic Afro-Asiatic languages, 493 
+
+497 North American native languages 
+
+Class here comprehensive works on North and South American native languages 
+
+Add to 497 the numbers following —97 in notation 971-979 from Table 6, e.g., 
+Macro-Penutian languages 497.4 
+
+For South American native languages, see 498 
+
+498 South American native languages 
+
+Add to 498 the numbers following —98 in notation 982-984 from Table 6, e.g., 
+Andean-Equatorial languages 498.3 
+
+Base number for *Quechua: 498.323 
+
+*Add to base number as instructed under 420-490 
+
+
+
+716 
+
+
+
+499 Other languages 499 
+
+499 Nonaustronesian languages of Oceania, Austronesian 
+languages, miscellaneous languages 
+
+Use of this number for other languages discontinued; class in 490 
+
+Add to 499 the numbers following —99 in notation 991-999 from Table 6, e.g., 
+Etruscan 499.94 
+
+Base number for *Tagalog (Filipino): 499.21 1 
+
+Base number for Indonesian (Bahasa Indonesia): 499.221 
+
+Base number for *Javanese: 499.222 
+
+Base number for *Malay (Bahasa Malaysia): 499.28 
+
+Base number for *Malagasy: 499.3 
+
+Base number for *Basque: 499.92 
+
+Base number for *Sumerian: 499.95 
+
+Base number for *Esperanto: 499.992 
+
+Base number for *Interlingua: 499.993 
+
+*Add to base number as instructed under 420-490 
+
+
+
+717 
+
+
+

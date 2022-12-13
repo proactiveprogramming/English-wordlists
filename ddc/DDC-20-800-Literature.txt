@@ -1,0 +1,5111 @@
+800 
+
+
+
+800 Literature (Belles-lettres) and rhetoric 
+
+Class here works of literature, works about literature 
+
+(Option: Class belletristic essays, speeches, letters, satire, humor, quotations, 
+epigrams, anecdotes, diaries, journals, reminiscences on a specific subject with 
+the subject, e.g., essays on architecture 720) 
+
+After general topics (800-809) the basic arrangement is literature by language, 
+then literature of each language by form, then each form by historical period; 
+however, miscellaneous writings are arranged first by historical period, then by 
+form. More detailed instructions are given at the beginning of Table 3 
+
+Unless other instructions are given, observe the following table of precedence, e.g., 
+collections of drama written in poetry from more than one literature 808.82 {not 
+808.81) 
+
+Drama 
+Poetry 
+
+Class epigrams in verse with miscellaneous writings 
+Fiction 
+Essays 
+Speeches 
+Letters 
+
+Miscellaneous writings 
+Satire and humor 
+
+Class here collections of satire and humor in two or more literary forms 
+(Option: Give precedence to satire and humor over all other forms) 
+
+Class interdisciplinary works on language and literature in 400, interdisciplinary 
+works on the arts in 700, folk literature in 398.2; librettos, poems, words written to 
+be sung or recited with music in 780 
+
+See Manual at 800; 800 vs. 398. 2; 800 vs. 591, 636, 398. 245; 800 vs. 741.6 
+
+801 Philosophy and theory 
+.3 Value, influence, effect 
+
+.9 Nature and character 
+
+.92 Psychology 
+
+Including literature as a product of imagination 
+.93 Aesthetics 
+
+
+
+643 
+
+
+
+801 Dewey Decimal Classification 801 
+
+
+
+.95 Criticism 
+
+Class here theory, technique, history of literary criticism 
+Class works of critical appraisal in 809 
+
+
+
+> 801.951-801.957 Criticism of specific literary forms 
+
+Observe table of precedence under 800 
+
+Class comprehensive works in 801.95, textual criticism of specific literary 
+forms in 801.959 
+
+.951 Poetry 
+
+.952 Drama 
+
+.953 Fiction 
+
+.954 Essays 
+
+.955 Speeches 
+
+.956 Letters 
+
+.957 Satire and humor 
+
+Class here parody 
+
+.959 Textual criticism 
+
+802 Miscellany 
+
+803 Dictionaries, encyclopedias, concordances 
+[804] [Unassigned] 
+
+Most recently used in Edition 16 
+
+805 Serial publications 
+
+Class collections of literary texts in serial form in 808.80005, history, description, 
+critical appraisal in serial form in 809.005 
+
+806 Organizations 
+
+807 Education, research, related topics 
+
+
+
+644 
+
+
+
+808 Literature (Belles-lettres) and rhetoric 808 
+
+808 Rhetoric and collections of literary texts from more than 
+one literature 
+
+Rhetoric: the effective use of language 
+
+Class here composition, literary plagiarism 
+
+Do not use for history and description of literature and rhetoric with respect to 
+kinds of persons; class history and description of rhetoric with respect to kinds of 
+persons in 808.008, collections of literary texts from more than one literature with 
+respect to kinds of persons in 808.89 
+
+Class general treatment of standard usage of language (prescriptive linguistics) in 
+418; treatment of standard usage in a specific language with the specific language, 
+using notation 8 from Table 4, e.g., English usage 428; theory, technique, history 
+of literary criticism in 801.95 
+
+See Manual at 808. 001-808. 7 vs. 070. 52 
+
+
+
+
+
+
+
+
+
+SUMMARY 
+
+
+
+
+808.001 
+
+
+-.005 
+
+
+> Standard subdivisions of rhetoric 
+
+
+
+
+.02- 
+
+
+.06 
+
+
+General topics in rhetoric 
+
+
+
+
+.1 
+
+
+
+
+Rhetoric of poetry 
+
+
+
+
+.2 
+
+
+
+
+Rhetoric of drama 
+
+
+
+
+.3 
+
+
+
+
+Rhetoric of fiction 
+
+
+
+
+.4 
+
+
+
+
+Rhetoric of essays 
+
+
+
+
+.5 
+
+
+
+
+Rhetoric of speech 
+
+
+
+
+.6 
+
+
+
+
+Rhetoric of letters 
+
+
+
+
+.7 
+
+
+
+
+Rhetoric of satire and humor 
+
+
+
+
+.8 
+
+
+
+
+Collections of literary texts from more than one literature 
+
+
+.001- 
+
+
+-.009 
+
+
+Standard subdivisions of rhetoric 
+
+
+
+808.02-808.06 General topics in rhetoric 
+
+Class comprehensive works in 808 
+
+.02 Authorship and editorial techniques 
+
+Writing in publishable form 
+
+Class here comprehensive works on preparation and submission of 
+manuscripts 
+
+Authorship and editorial techniques for specific kinds of composition 
+relocated to 808.06 
+
+Class submission of manuscripts to agents and publishers in 070.52 
+
+See also 001 . 4 for research 
+
+See Manual at 808. 001-808. 7 vs. 070. 52 
+
+[.025] Writing for publication 
+
+Number discontinued; class in 808.02 
+
+
+
+645 
+
+
+
+808 Dewey Decimal Classification 808 
+
+.027 Editorial techniques 
+
+Preparation of manuscripts in publishable form 
+
+Class here style manuals 
+
+.04 Rhetoric in specific languages 
+
+Class preparation of manuscripts regardless of language in 808.02, rhetoric 
+of specific kinds of composition regardless of language in 808.06 
+
+.042 In English 
+
+.042 7 Study of rhetoric through critical reading 
+
+Including collections and single works for critical reading 
+
+See Manual at 808. 0427 
+
+[.042 75] Literature for learning rhetoric 
+
+Number discontinued; class in 808.0427 
+
+.043- .049 In other languages 
+
+Add to base number 808.04 notation 3-9 from Table 6, e.g., German 
+rhetoric 808.0431; then to the result add the numbers following 808.042 
+in 808.04201-808.0427, e.g., study of German rhetoric through critical 
+reading 808.04317 
+
+.06 Rhetoric of specific kinds of composition 
+
+Class here authorship and editorial techniques for specific kinds of 
+composition [formerly 808.02] 
+
+Class rhetoric in specific literary forms in 808.1-808.7 
+
+.062 Abstracts and summaries 
+
+.066 Professional, technical, expository literature 
+
+Add to base number 808.066 three-digit numbers 001-999 (but no 
+standard subdivisions), e.g., technical writing 808.0666, writing of 
+technical dictionaries 808.0666 {not 808.066603), writing on bridge 
+engineering 808.066624 {not 808.0666242); then, for writing in a foreign 
+language, add and to the result add notation 2-9 from Table 6, e.g., 
+technical writing in Spanish for speakers of another language 
+808.0666061 
+
+Editorial mechanics in journalistic writing [formerly 070.415] are classed 
+in 808.06607, style manuals for business writing in 808.06665 [formerly 
+651.7402], style of business letters in 808.066651 [formerly 651.75] 
+
+For expository writing for children, see 808.0688; abstracts and 
+summaries, 808. 062 
+
+See Manual at 651. 7 vs. 808. 06665, 658. 45 
+.067 Adult easy literature 
+
+Works for adults learning to read or for adult beginners in foreign 
+languages 
+
+
+
+646 
+
+
+
+808 Literature (Belles-lettres) and rhetoric 808 
+
+.068 Children's literature 
+
+.068 1-.068 7 Specific literary forms 
+
+Add to base number 808.068 the numbers following 808 in 
+808.1-808.7, e.g., drama 808.0682 
+
+
+
+.068 8 Expository writing 
+
+
+
+.1-808.7 Rhetoric in specific literary forms 
+
+Observe table of precedence under 800 
+
+Class comprehensive works in 808, specific forms for children in 
+808.0681-808.0687 
+
+.1 Rhetoric of poetry 
+
+Class here prosody 
+
+Add to base number 808.1 the numbers following — 10 in notation 102- 108 
+from Table 3-B, e.g., lyric poetry 808.14 
+
+See Manual at 808. 1 vs. 414. 6 
+
+.2 Rhetoric of drama 
+
+Add to base number 808.2 the numbers following —20 in notation 202-205 
+from Table 3-B, e.g., one-act plays 808.241 
+
+.3 Rhetoric of fiction 
+
+Class here the rhetoric of novelettes and novels 
+
+Add to base number 808.3 the numbers following —30 in notation 301-308 
+from Table 3-B, e.g., science fiction 808.38762 
+
+.4 Rhetoric of essays 
+
+.5 Rhetoric of speech 
+
+Art or technique of oral expression 
+
+Class here voice, expression, gesture 
+
+.5 1 Public speaking (Oratory) 
+
+Examples: after-dinner, platform, radio speaking; making speeches and 
+toasts for special occasions 
+
+For debating and public discussion, see 808.53; preaching, 251 
+.53 Debating and public discussion 
+
+.54 Recitation 
+
+Class here oral interpretation 
+Class choral speaking in 808.55 
+.543 Storytelling 
+
+.545 Reading aloud 
+
+.55 Choral speaking 
+
+647 
+
+
+
+808 Dewey Decimal Classification 808 
+
+.56 Conversation 
+
+[.59] Listening 
+
+Number discontinued because without meaning in context 
+
+.6 Rhetoric of letters 
+
+.7 Rhetoric of satire and humor 
+
+Class here rhetoric of parody 
+
+.8 Collections of literary texts from more than one literature 
+
+By more than one author 
+
+Use of this number for general works consisting equally of literary texts and 
+history, description, critical appraisal of literature discontinued; class in 800 
+
+Works consisting equally of literary texts and history, description, critical 
+appraisal of literature are classed in subdivisions of 808.8 if limited to specific 
+topics found in those subdivisions, e.g., texts and criticism of literature of the 
+18th century 808.80033, texts and criticism of drama 808.82 
+
+Class two or more literatures in the same language with the literature of that 
+language 
+
+See Manual at 808.8 
+
+SUMMARY 
+
+808.800 01-. 800 07 Standard subdivisions 
+
+.800 1-.800 5 Collections from specific periods 
+
+.801.803 Collections displaying specific features 
+
+
+
+.81 
+
+
+Collections of poetry 
+
+
+.82 
+
+
+Collections of drama 
+
+
+.83 
+
+
+Collections of fiction 
+
+
+.84 
+
+
+Collections of essays 
+
+
+.85 
+
+
+Collections of speeches 
+
+
+.86 
+
+
+Collections of letters 
+
+
+.87 
+
+
+Collections of satire and humor 
+
+
+.88 
+
+
+Collections of miscellaneous writings 
+
+
+.89 
+
+
+Collections for and by specific kinds of persons 
+
+
+01 -.800 07 
+
+
+Standard subdivisions 
+
+
+
+[.800 08] History and description with respect to kinds of persons 
+
+Do not use; class in 808.89 
+[.800 09] Historical, geographical, persons treatment 
+
+Do not use; class in 809 
+.800 1-.800 5 Collections from specific periods 
+
+
+
+Add to base number 808.800 the numbers following —090 in notation 
+0901-0905 from Table 1, e.g., collections of 18th century literature 
+808.80033 
+
+
+
+648 
+
+
+
+808 Literature (Belles-lettres) and rhetoric 808 
+
+.801-. 803 Collections displaying specific features 
+
+Add to base number 808.80 notation 1-3 from Table 3-C, e.g., 
+collections of literature featuring classicism 808.80142, on death 
+808.80354 
+
+
+
+
+
+
+> 808.81-808.88 Collections in specific forms 
+
+Aside from additions, changes, deletions, exceptions shown under specific 
+entries, add to the notation for each term identified by * as follows: 
+001-008 Standard subdivisions 
+009 Geographical treatment 
+
+Class historical periods in 01-05; persons treatment in the 
+number for the specific form, without adding notation from 
+Table 1 
+01-05 Historical periods 
+
+Add to the numbers following —090 in notation 0901-0905 
+from Table 1, e.g., 18th century 033 
+
+Observe the table of precedence under 800 
+
+Class comprehensive works in 808.8 
+.8 1 Collections of poetry 
+
+.812— .818 Specific kinds 
+
+Add to base number 808.81 the numbers following —10 in notation 
+102-108 from Table 3-B, e.g., collections of narrative poetry 808.813 
+
+.819 Poetry displaying specific features 
+
+Add to base number 808.819 notation 1-3 from Table 3-C, e.g., 
+collections of poetry about animals 808.81936 
+
+Class poetry of specific kinds regardless of feature in 808.812-808.818 
+
+.82 Collections of drama 
+
+.822-.825 Specific media, scopes, kinds 
+
+Add to base number 808.82 the numbers following —20 in notation 
+202-205 from Table 3-B, e.g., collections of tragedies 808.82512 
+
+.829 Drama displaying specific features 
+
+Add to base number 808.829 notation 1-3 from Table 3-C, e.g., 
+collections of plays about Abraham Lincoln 808.829351 
+
+Class drama of specific media, scopes, kinds regardless of feature in 
+808.822-808.825 
+
+.83 Collections of fiction 
+
+.831-. 838 Specific scopes and types 
+
+Add to base number 808.83 the numbers following —30 in notation 
+3^1-308 from Table 3-B, e.g., collections of love stories 808.8385 
+
+*Add as instructed under 808.81-808.88 
+
+
+
+649 
+
+
+
+808 Dewey Decimal Classification 808 
+
+.839 Fiction displaying specific features 
+
+Add to base number 808.839 notation 1-3 from Table 3-C, e.g., 
+collections of fiction about animals 808.83936 
+
+Class fiction of specific scopes and types regardless of feature in 
+808.831-808.838 
+
+.84 *Collections of essays 
+
+.849 Essays displaying specific features 
+
+Add to base number 808.849 notation 1-3 from Table 3-C, e.g., 
+collections of descriptive essays 808.84922 
+
+.85 *Collections of speeches 
+
+.851-856 Specific kinds 
+
+Add to base number 808.85 the numbers following —50 in notation 
+501-506 from Table 3-B, e.g., debates 808.853 
+
+.859 Speeches displaying specific features 
+
+Add to base number 808.859 notation 1-3 from Table 3-C, e.g., 
+collections of descriptive speeches 808.85922 
+
+Class speeches of specific kinds regardless of feature in 
+808.851-808.856 
+
+.86 Collections of letters 
+
+.869 Letters displaying specific features 
+
+Add to base number 808.869 notation 1-3 from Table 3-C, e.g., 
+collections of letters displaying classicism 808.869142 
+
+.87 Collections of satire and humor 
+
+.879 Satire and humor displaying specific features 
+
+Add to base number 808.879 notation 1-3 from Table 3-C, e.g., 
+collections of literary humor about holidays 808.87933 
+
+.88 Collections of miscellaneous writings 
+
+.882 Jokes [formerly 808.887], quotations, epigrams, anecdotes, graffiti 
+
+.883 Diaries, journals, notebooks, reminiscences 
+
+.887 Works without identifiable form 
+
+Class here experimental and nonformalized works 
+
+Jokes relocated to 808.882 
+.888 Prose literature 
+
+Class a specific form of prose literature with the form, e.g., essays 
+808.84; prose without identifiable form in 808.887 
+
+*Add as instructed under 808.81-808.88 
+
+
+
+650 
+
+
+
+
+
+
+808 Literature (Belles-lettres) and rhetoric 808 
+
+.89 Collections for and by specific kinds of persons 
+
+Add to base number 808.89 notation 8-9 from Table 3-C, e.g., collections 
+of literature in more than one language by persons of African descent 
+808.89896 
+
+Class literature in specific forms for and by specific kinds of persons in 
+808.81-808.88, literature displaying specific features for and by specific 
+kinds of persons in 808.801-808.803, literatures of specific languages for 
+and by specific kinds of persons in 810-890 
+
+809 History, description, critical appraisal of more than one 
+literature 
+
+Treating works by more than one author 
+
+Class here collected biography 
+
+Class theory, technique, history of literary criticism in 801.95; two or more 
+literatures in the same language with the literature of that language 
+
+See Manual at 808. 8 
+
+.001-. 007 Standard subdivisions 
+
+[.008] History and description with respect to kinds of persons 
+
+Do not use; class in 809.8 
+
+[.009] Historical, geographical, persons treatment 
+
+Do not use; class persons in 809, historical periods in 809.01-809.05, 
+geographical treatment in 809.89 
+
+.01-. 05 Literature from specific periods 
+
+Add to base number 809.0 the numbers following —090 in notation 
+0901-0905 from Table 1, e.g, history, description, critical appraisal of 18th 
+century literature 809.033 
+
+.1-.7 Literature in specific forms 
+
+Add to base number 809 the numbers following 808.8 in 808.81-808.87, e.g., 
+history, description, critical appraisal of narrative poetry 809.13, of poetry 
+about animals 809.136 
+
+
+
+651 
+
+
+
+809 Dewey Decimal Classification 809 
+
+.8 Literature for and by specific kinds of persons 
+
+Class here history and description of literature with respect to kinds of persons 
+
+Unless other instructions are given, observe the following table of precedence, 
+e.g., history, description, critical appraisal of literature for or by American 
+Roman Catholic girls 809.892827 {not 809.813, 809.89222, or 809.8973) 
+
+Persons of specific age groups 809.89282- .89285 
+
+Persons of specific sexes 809.89286- .89287 
+Persons occupied with geography, history, related 
+
+disciplines 809.8929 
+Persons of other specific occupational and 
+
+miscellaneous characteristics 809.89204- . 89279 
+
+Persons of specific racial, ethnic, national groups 809.801 -.889 
+Persons resident in specific continents, countries, 
+
+localities 809.893-.899 
+
+Persons resident in specific regions 809.891 
+
+Class literature in specific forms for and by specific kinds of persons in 
+809.1-809.7, literature displaying specific features for and by specific kinds of 
+persons in 809.9, literatures of specific languages for and by specific kinds of 
+persons in 810-890 
+
+
+
+809.801-809.889 Literature for and by specific racial, ethnic, national 
+groups 
+
+Class comprehensive works in 809.8 
+
+.801-. 879 For and by general and larger Western racial, ethnic, national groups 
+
+Add to base number 809.8 notation 01-79 from Table 5, e.g., North 
+Americans 809.81 
+
+.88 For and by other racial, ethnic, national groups 
+
+.881 Ancient Greeks 
+
+.888 Modern Greeks and Cypriots 
+
+.889 Other 
+
+Add to base number 809.889 the numbers following —9 in notation 
+91-99 from Table 5, e.g., Jewish literature 809.88924, African literature 
+809.8896 
+
+.89 For and by other specific kinds of persons 
+
+Add to base number 809.89 the numbers following —9 in notation 91-99 
+from Table 3-C, e.g., literature in more than one language by painters 
+809.89275, by residents of Canada 809.8971 
+
+
+
+652 
+
+
+
+809 Literature (Belles-lettres) and rhetoric 809 
+
+.9 Literature displaying specific features 
+
+Class literature in specific forms regardless of feature in 809.1-809.7 
+.91-.92 Displaying specific qualities and elements 
+
+Add to base number 809.9 notation 1-2 from Table 3-C, e.g., history, 
+description, critical appraisal of literature displaying tragedy and horror 
+809.916 
+
+Class literature dealing with specific themes and subjects regardless of 
+quality or element displayed in 809.933 
+
+.93 Displaying other aspects 
+
+.933 Dealing with specific themes and subjects 
+
+Add to base number 809.93 notation 32-38 from Table 3-C, e.g., 
+history, description, critical appraisal of literature dealing with marriage 
+809.93354 
+
+.935 Emphasizing subjects 
+
+Literary appraisal of works not basically belles-lettres 
+
+Add to base number 809.935 notation 001-999, e.g., religious works as 
+literature 809.9352, biography and autobiography as literature 809.93592 
+
+
+
+653 
+
+
+
+810 Dewey Decimal Classification 810 
+
+
+
+> 810-890 Literatures of specific languages 
+
+Literature is classed by the language in which originally written, regardless of 
+country 
+
+(Option: Class translations into a language requiring local emphasis with the 
+
+literature of that language) 
+
+Unless there is a specific provision for a dialect, literature in a dialect is classed 
+with the literature of the basic language 
+
+Literature in a pidgin or Creole is classed with the source language from which 
+more of its vocabulary comes than from its other source language(s) 
+
+(Option: For any group of literatures, add 04 and then add notation 01-89 from 
+Table 3-B, e.g., collections of lyric poetry written in African languages 
+896.0410408) 
+
+(Option: To give preferred treatment to, or make available more and shorter 
+numbers for the classification of, literature of any specific language that it is 
+desired to emphasize, use one of the following options: 
+
+(Option A: Class in 810, where full instructions appear 
+
+(Option B: Give preferred treatment by placing before 810 through use of a 
+letter or other symbol, e.g., literature of Arabic language 8A0, for which the 
+base number is 8A 
+
+(Option C: Where two or more countries share the same language, either [1] 
+use initial letters to distinguish the separate countries, or [2] use the special 
+number designated for literatures of those countries that are not preferred. 
+Full instructions appear under 810, 819, 820, 828.99, 840.1-848.9, 848.99, 
+860.1-868.9, 868.99, 869, 869.899) 
+
+Under each literature identified by *, add to designated base number notation 
+1-8 from Table 3-A for works by or about individual authors, notation 01-89 
+from Table 3-B for works by or about more than one author. If the base 
+number is not identified in a note, it is the number given for the literature, e.g., 
+for Dutch 839.31. Full instructions for building numbers are given at the start of 
+Table 3 
+
+The numbers used in this schedule for literatures of individual languages do not 
+necessarily correspond exactly with those in 420-490 or with the notation in 
+Table 6. Use notation from Table 6 only when so instructed, e.g., at 899 
+
+Class comprehensive works in 800 
+
+810 * American literature in English 
+
+English-language literature of Western Hemisphere and Hawaii 
+
+Base number: 81 
+
+Special interpretations of and exceptions to notation from Table 3 for use with 
+American literature in English: 
+
+810.8099 Collections for and by persons resident in Hawaii 
+810.999 History, description, critical appraisal of literature for and by persons 
+resident in Hawaii 
+
+(continued) 
+
+
+
+654 
+
+
+
+810 American literature in English 810 
+
+810 * American literature in English (continued) 
+
+Assign period numbers for the United States (including Puerto Rico) and Canada 
+only 
+
+
+
+UOD TABLES FOR AMERICAN LITERATURE IN ENGLISH 
+
+
+For Canada 
+
+
+
+
+3 
+4 
+
+
+Colonial period to 1867 
+1867-1900 
+
+
+
+
+5 
+
+
+1900- 
+
+
+
+
+52 
+
+
+1900-1945 
+
+
+
+
+54 
+
+
+1945- 
+
+
+
+
+For United States 
+
+
+
+
+1 
+2 
+
+
+Colonial period, 1607-1776 
+1776-1830 
+
+
+
+
+3 
+
+
+1830-1861 
+
+
+
+
+
+
+Class here 19th century 
+Class 1800-1830 in 2, 1861- 
+
+
+-1899 in 4 
+
+
+4 
+
+
+1861-1900 
+
+
+
+
+5 
+
+
+1900- 
+
+
+
+
+52 
+
+
+1900-1945 
+
+
+
+
+54 
+
+
+1945- 
+
+
+
+
+
+(Option: To give local emphasis and a shorter number to a specific literature other 
+than American literature in English, e.g., Afrikaans literature, class it here; in that 
+case class American literature in English in 820. Other options are described under 
+810-890) 
+
+(Option: Distinguish literatures of specific countries by initial letters, e.g., literature 
+of Canada C810, of Jamaica J810, of United States U810; or class literatures not 
+requiring local emphasis in 819. If literatures are identified by one of these 
+methods, assign period numbers for Middle and South American literature as well 
+as for United States and Canadian literature. Other options are described under 
+810-890) 
+
+Class comprehensive works on American literature in English and English 
+literature in 820 
+
+811 ^Poetry 
+
+812 iDrama 
+
+813 ^Fiction 
+
+814 ^Essays 
+
+815 ^Speeches 
+
+816 ^Letters 
+
+817 $ Satire and humor 
+
+818 t Miscellaneous writings 
+
+* Add to base number as instructed at the beginning of Table 3 
+$Add as instructed under 810 and at the beginning of Table 3 
+
+655 
+
+
+
+8 1 9 Dewey Decimal Classification 819 
+
+(819) American literatures in English not requiring local 
+emphasis 
+
+(Optional number and subdivisions; prefer 810-818 for all American literatures in 
+English. Other options are described under 810-890) 
+
+Class here English-language literatures of specific American countries other than 
+the country requiring local emphasis, e.g., libraries emphasizing United States 
+literature class here Canadian literature, and libraries emphasizing Canadian 
+literature class here United States literature 
+
+(.1) *fCanada 
+
+(.3) *t United States 
+
+(.5) *fMexico 
+
+(.7) f Central America 
+
+(.700 1-.708 9) tSubdivisions of Central American literature in English 
+
+Add to base number 819.70 as instructed at the beginning of Table 3, 
+e.g., collections of Central American dramatic poetry in English 
+819.7010208 
+
+(.71-. 77) f Specific countries 
+
+Add to 819.7 the numbers following —728 in notation 7281-7287 from 
+Table 2, e.g., English-language literature of Costa Rica 819.76; then to the 
+base number thus derived add as instructed at the beginning of Table 3, e.g., 
+collections of English-language literature of Costa Rica displaying 
+naturalism 819.7608012 
+
+(.8) tWest Indies (Antilles) and Bermuda 
+
+(.800 1-.808 9) tSubdivisions of English-language literatures of the West Indies (Antilles) 
+and Bermuda 
+
+Add to base number 819.80 as instructed at the beginning of Table 3, 
+e.g., collections of English-language literature of the West Indies for 
+children 819.800809282 
+
+(.81) *tCuba 
+
+(.82) *tJamaica 
+
+(.83) *tDominican Republic 
+
+(.84) *|Haiti 
+
+(.85) *tPuerto Rico 
+
+(.86) *tBahama Islands 
+
+(.87) *tLeeward Islands 
+
+(.88) *tWindward and other southern islands 
+
+(.89) *tBermuda 
+
+*Add to base number as instructed at the beginning of Table 3 
+t (Optional number; prefer 810-818) 
+
+656 
+
+
+
+819 American literature in English 819 
+
+(.9) fSouth America 
+
+(.900 1-.908) fSubdivisions of English-language literatures of South America 
+
+Add to base number 819.90 as instructed at the beginning of Table 3, 
+e.g., collections of English-language one-act plays from South 
+America 819.90204108 
+
+(.91-.99) t Sped fie countries 
+
+Add to 819.9 the numbers following —8 in notation 81-89 from Table 2, 
+e.g., English-language literature of Brazil 819.91; then add further as 
+instructed at the beginning of Table 3, e.g., history and critical appraisal of 
+English-language literature of Brazil 819.9109 
+
+820 *English and Old English (Anglo-Saxon) literatures 
+
+Base number for English: 82 
+
+Assign period numbers for Great Britain and Ireland only 
+
+PERIOD TABLES FOR ENGLISH 
+
+For Great Britain and Ireland 
+
+1 Early English period, 1066-1400 
+
+Class here medieval period 
+
+2 Pre-Elizabethan period, 1400- 1 558 
+
+3 Elizabethan period, 1558-1625 
+
+Including Jacobean period 
+
+Class here 16th century, Renaissance period 
+
+Class 1500-1558, the pre-Elizabethan part of the Renaissance in 2 
+
+4 Post-Elizabethan period, 1 625- 1 702 
+
+Including Caroline and Restoration periods 
+
+5 Queen Anne period, 1702-1745 
+
+Class here 18th century 
+
+Class 1700-1702 in 4, 1745-1799 in 6 
+
+6 1745-1800 
+
+7 1800-1837 
+
+Class here romantic period 
+
+8 Victorian period, 1 837- 1 900 
+
+Class here 19th century 
+Class 1800-1837 in 7 
+
+9 1900- 
+
+91 1900-2000 
+
+912 1900-1945 
+
+914 1945- 
+
+(Option: Distinguish English-language literatures of specific countries by initial 
+letters, e.g., literature of England E820, of Ireland Ir820, of Scotland S820, of 
+Wales W820, or of all British Isles B820, of Australia A820, of India In820; or 
+class literatures not requiring local emphasis in 828.99. If literatures are identified 
+by one of these methods, assign optional period numbers for literature of Ireland, 
+Africa, Asia, Australia, and New Zealand. Other options are described under 
+810-890 
+
+(continued) 
+t (Optional number; prefer 810-818) 
+
+
+
+657 
+
+
+
+820 Dewey Decimal Classification 820 
+
+820 *English and Old English (Anglo-Saxon) literatures 
+(continued) 
+
+
+
+(For Ireland 
+
+
+
+
+(1 
+
+(2 
+(3 
+(4 
+(5 
+
+
+Medieval anc 
+1660-1800 
+1800-1900 
+Irish literary 
+1945- 
+
+
+I early modern to 1660 
+revival, 1900-1945 
+
+
+(For African countries 
+
+
+; other than South Africa 
+
+
+(1 
+
+(2 
+
+
+To 1960 
+1960- 
+
+
+
+
+(For Asian countries 
+
+
+
+
+(1 
+
+(2 
+(3 
+
+
+Early period 
+
+1858-1947 
+
+1947- 
+
+
+to 1858 
+
+
+(Fori 
+
+
+\ustralia 
+
+
+
+
+(1 
+
+(2 
+(3 
+
+
+Early period 
+
+1890-1945 
+
+1945- 
+
+
+to 1890 
+
+
+(Fori 
+
+
+Sfew Zealand 
+
+
+
+
+(1 
+(2 
+
+
+Early period 
+1907- 
+
+
+to 1907 
+
+
+(Fori 
+
+
+South Africa 
+
+
+
+
+(1 
+(2 
+(3 
+
+
+To 1909 
+1909-1961 
+1961- ) 
+
+
+
+
+
+For American literature in English, see 810 
+
+821 ^English poetry 
+
+822 ^English drama 
+
+.3 Elizabethan period, 1558-1625 
+
+.33 William Shakespeare 
+
+(Option: Subarrange works about and by Shakespeare according to the 
+following table, which may be adapted for use with any specific author: 
+A Authorship controversies 
+
+(Option: Class here bibliography; prefer 016.82233) 
+B Biography 
+D Critical appraisal 
+
+Class critical appraisal of individual works in O-Z 
+E Textual criticism 
+
+Class textual criticism of individual works in O-Z 
+F Sources, allusions, learning 
+
+(continued) 
+*Add to base number as instructed at the beginning of Table 3 
+$ Add as instructed under 820 and at the beginning of Table 3 
+
+658 
+
+
+
+822 English and Old English (Anglo-Saxon) literatures 822 
+
+.33 William Shakespeare (continued) 
+
+
+
+G 
+
+
+Societies, concordances, miscellany 
+
+
+H 
+
+
+Quotations, condensations, adaptations 
+
+
+I 
+
+
+Complete works in English without notes 
+
+
+J 
+
+
+Complete works in English with notes 
+
+
+K 
+
+
+Complete works in translation 
+
+
+L 
+
+
+Partial collections in English without notes 
+
+
+M 
+
+
+Partial collections in English with notes 
+
+
+N 
+
+
+Partial collections in translation 
+
+
+>o-z 
+
+
+Individual works 
+
+
+
+
+Use the first number of each pair for texts, the second for 
+
+
+
+
+description and critical appraisal 
+
+
+
+
+Class poems in 821.3 
+
+
+>OR 
+
+
+Comedies 
+
+
+01-2 
+
+
+All's well that ends well 
+
+
+03-4 
+
+
+As you like it 
+
+
+05-6 
+
+
+The comedy of errors 
+
+
+07-8 
+
+
+Love's labour's lost 
+
+
+Pl-2 
+
+
+Measure for measure 
+
+
+P3-4 
+
+
+The merchant of Venice 
+
+
+P5-6 
+
+
+The merry wives of Windsor 
+
+
+P7-8 
+
+
+A midsummer night's dream 
+
+
+Ql-2 
+
+
+Much ado about nothing 
+
+
+Q3-4 
+
+
+The taming of the shrew 
+
+
+Q5-6 
+
+
+The tempest 
+
+
+Q7-8 
+
+
+Twelfth night 
+
+
+Rl-2 
+
+
+The two gentlemen of Verona 
+
+
+R3-4 
+
+
+The winter's tale 
+
+
+>S-V 
+
+
+Tragedies 
+
+
+Sl-2 
+
+
+Antony and Cleopatra 
+
+
+S3-4 
+
+
+Coriolanus 
+
+
+S5-6 
+
+
+Cymbeline 
+
+
+S7-8 
+
+
+Hamlet 
+
+
+Tl-2 
+
+
+Julius Caesar 
+
+
+T3-4 
+
+
+King Lear 
+
+
+T5-6 
+
+
+Macbeth 
+
+
+T7-8 
+
+
+Othello 
+
+
+Ul-2 
+
+
+Pericles 
+
+
+U3-4 
+
+
+Romeo and Juliet 
+
+
+U5-6 
+
+
+Timon of Athens 
+
+
+U7-8 
+
+
+Titus Andronicus 
+
+
+Vl-2 
+
+
+Troilus and Cressida 
+
+
+>w-x 
+
+
+Histories 
+
+
+Wl-2 
+
+
+Henry IV, parts 1-2 
+
+
+W3-4 
+
+
+Henry V 
+
+
+W5-6 
+
+
+Henry VI, parts 1-3 
+
+
+W7-8 
+
+
+Henry VIII 
+
+
+Xl-2 
+
+
+King John 
+
+
+X3-4 
+
+
+Richard II 
+
+
+X5-6 
+
+
+Richard III 
+
+
+Y 
+
+
+Poems 
+
+
+
+
+(Optional numbers; prefer 821.3) 
+
+
+Yl-2 
+
+
+General works 
+
+
+Y3-4 
+
+
+Venus and Adonis 
+
+
+Y5-6 
+
+
+The rape of Lucrece 
+
+
+Y7-8 
+
+
+Sonnets 
+
+
+Z 
+
+
+Spurious and doubtful works) 
+
+
+
+659 
+
+
+
+823 Dewey Decimal Classification 823 
+
+823 ^English fiction 
+
+824 % English essays 
+
+825 ^English speeches 
+
+826 ^English letters 
+
+827 ^English satire and humor 
+
+828 ^English miscellaneous writings 
+
+(.99) English-language literatures not requiring local emphasis 
+
+(Optional number and subdivisions; prefer 820-828 for all non- American 
+English-language literatures. Other options are described under 810-890) 
+
+Class here English-language literatures of specific non-American countries 
+other than the country requiring local emphasis, e.g., libraries emphasizing 
+British literature may class here Australian, Indian, other literatures, and 
+libraries emphasizing Indian literature may class here British literature 
+
+(.99 1 ) f Scotland and Ireland 
+
+(Option: Class here all English-language literature of *United Kingdom, 
+of *Great Britain, of *British Isles) 
+
+
+
+(.991 1) 
+
+
+*fScotland 
+
+
+(.991 5) 
+
+
+*tlreland 
+
+
+(.992) 
+
+
+*t England and Wales 
+
+
+(.992 9) 
+
+
+*|Wales 
+
+
+(.993) 
+
+
+tNew Zealand, Australia, India, South Africa 
+
+
+(.993 3) 
+
+
+*tNew Zealand 
+
+
+(.993 4) 
+
+
+*|Australia 
+
+
+(.993 5) 
+
+
+*t India 
+
+
+(.993 6) 
+
+
+*t South Africa 
+
+
+(.994-999) 
+
+
+t Other parts of the world 
+
+
+
+English-language literature except of British Isles, Western Hemisphere, 
+Hawaii, New Zealand, Australia, India, South Africa 
+
+Add to 828.99 notation 4-9 from Table 2, e.g., English-language 
+literature of Israel 828.995694; then add and to the base number thus 
+derived add as instructed at the beginning of Table 3, e.g., 
+English-language poetry of Israel 828.99569401 
+
+
+
+*Add to base number as instructed at the beginning of Table 3 
+
+t (Optional number; prefer 820-828) 
+
+X Add as instructed under 820 and at the beginning of Table 3 
+
+
+
+660 
+
+
+
+829 English and Old English (Anglo-Saxon) literatures 829 
+
+829 *01d English (Anglo-Saxon) 
+
+Special interpretations of and exceptions to notation from Table 3 for use with Old 
+English appear below under 829.2-829.8 
+
+.1 Poetry 
+
+For Caedmon, see 829.2; Beowulf, 829.3; Cynewulf, 829.4 
+.2 Caedmon 
+
+.3 Beowulf 
+
+.4 Cynewulf 
+
+.8 Prose literature 
+
+830 Literatures of Germanic (Teutonic) 
+languages German literature 
+
+For English and Old English (Anglo-Saxon) literatures, see 820 
+.01-. 09 Standard subdivisions of literatures of Germanic (Teutonic) languages 
+* Add to base number as instructed at the beginning of Table 3 
+
+
+
+661 
+
+
+
+830 Dewey Decimal Classification 830 
+
+
+
+830.1-838.9 Subdivisions of *German literature 
+
+Class here literature in Alsatian, Franconian, Pennsylvania Dutch (Pennsylvania 
+German), Swabian, Swiss-German dialects 
+
+Base number: 83 
+
+PERIOD TABLE 
+
+
+
+1 
+
+
+Early period to 1100 
+
+Class here Old High German literature 
+1100- 1150 relocated to 21 
+
+
+2 
+
+
+1100-1350 
+
+
+
+
+Class here medieval period, 750-1350; Middle High German 
+literature 
+
+
+
+
+Class 750-1 100 in 1 
+
+
+21 
+
+
+1100-1250 
+
+
+
+
+Including 1 100-1 150 {formerly 1] 
+Class here Bliitezeit 
+
+
+22 
+
+
+1250-1350 
+
+
+3 
+
+
+Class here 1300-1350 [formerly 3] 
+1350-1517 
+
+
+
+
+1350-1400 relocated to 22 
+
+
+4 
+5 
+
+
+Reformation period, 1517-1 625 
+1625-1750 
+
+
+6 
+
+7 
+
+
+Class here the baroque period 
+Classical period, 1750-1830 
+
+Class here 1 8th century, the romantic period 
+
+Class 1700-1750 in 5, the later romantic period in 7 
+Postclassical period, 1830-1856 
+
+Class here 1 9th century 
+
+Class 1800-1830 in 6, 1856-1899 in 8 
+
+
+8 
+
+
+1856-1900 
+
+
+9 
+
+
+1900- 
+
+
+91 
+
+
+1900-2000 
+
+
+912 
+
+
+\ 1900-1945 
+
+
+9\A 
+
+
+\ 1945- 
+
+
+
+Class comprehensive works in 830, Yiddish (Judeo-German) literature in 
+839.09, low German (Plattdeutsch) literature in 839.4 
+
+.1-.9 Standard subdivisions; collections; history, description, critical 
+appraisal of ^German literature 
+
+831 JGerman poetry 
+
+832 ^German drama 
+
+833 ^German fiction 
+
+834 ^German essays 
+
+835 ^German speeches 
+
+836 i German letters 
+
+* Add to base number as instructed at the beginning of Table 3 
+
+$Add as instructed under 830.1-838.9 and at the beginning of Table 3 
+
+662 
+
+
+
+837 Germanic literatures German literature 837 
+
+837 ^German satire and humor 
+
+838 ^German miscellaneous writings 
+
+839 Other Germanic (Teutonic) literatures 
+
+.09 *Yiddish 
+
+PERIOD TABLE 
+
+1 Early period to 1700 
+
+2 Period of enlightenment, 1 700- 1 860 
+
+3 Golden age and modern period, 1 860- 
+
+
+
+
+
+
+839.1-839.4 West Germanic literatures 
+
+Class comprehensive works in 839 
+Old Low Germanic literatures 
+
+Examples: Old Frisian, Old Low Franconian, Old Low German, Old Saxon 
+
+
+
+> 839.2-839.4 Modern Low Germanic literatures 
+
+Class comprehensive works in 839 
+.2 *Frisian 
+
+PERIOD TABLE 
+
+1 Early period to 1609 
+
+2 1609-1800 
+
+3 1800-1900 
+
+4 1900- 
+
+.3 Netherlandish literatures 
+
+.31 *Dutch 
+
+Class here Flemish literature [formerly 839.32] 
+
+PERIOD TABLE 
+
+1 Medieval period to 1450 
+
+2 Renaissance period, 1450-1 600 
+
+3 1600-1700 
+
+4 1700-1800 
+
+5 1800-1900 
+
+6 1900- 
+
+62 1900-1945 
+64 1945- 
+
+[.32] Flemish literature 
+
+Relocated to 839.31 
+* Add to base number as instructed at the beginning of Table 3 
+$Add as instructed under 830.1-838.9 and at the beginning of Table 3 
+
+
+
+663 
+
+
+
+839 Dewey Decimal Classification 839 
+
+.36 *Afrikaans 
+
+PERIOD TABLE 
+
+1 Early period to 1 875 
+
+2 1875-1904 
+
+3 1904-1924 
+
+4 1924-1961 
+
+Class here 20th century 
+
+Class 1900-1904 in 2, 1904-1924 in 3, 1961-1999 in 5 
+
+5 1961- 
+
+.4 *Low German (Plattdeutsch) 
+
+PERIOD TABLE 
+
+1 Early period to 1600 
+
+2 1600-1900 
+
+3 1900- 
+
+.5 Scandinavian (North Germanic) literatures 
+
+For specific Scandinavian literatures, see 839. 6-839. 8 
+
+
+
+839.6-839.8 Specific Scandinavian literatures 
+
+Class comprehensive works in 839.5 
+.6 West Scandinavian literatures Old Norse (Old Icelandic) 
+
+.600 1-.600 9 Standard subdivisions of West Scandinavian literatures 
+
+.601-. 68 Subdivisions of *01d Norse (Old Icelandic) 
+
+Base number: 839.6 
+.69 Modern West Scandinavian literatures Modern Icelandic 
+
+.690 01 -.690 09 Standard subdivisions of modern West Scandinavian literatures 
+
+.690 1-.698 Subdivisions of *Modern Icelandic 
+
+Base number: 839.69 
+
+PERIOD TABLE 
+
+1 Early period, 1500-1720 
+
+2 Age of enlightenment, 1 720- 1 835 
+
+3 Renaissance, 1835-1900 
+
+Class here 19th century 
+Class 1800-1835 in 2 
+
+4 1900- 
+
+See also 839. 699 for Faeroese 
+.699 * Faeroese 
+
+
+
+> 839.7-839.8 East Scandinavian literatures 
+
+Class comprehensive works in 839.5 
+*Add to base number as instructed at the beginning of Table 3 
+
+
+
+664 
+
+
+
+839 Germanic literatures German literature 839 
+
+
+
+.7 
+
+
+
+♦Swedish 
+
+
+
+
+PERIOD TABLE 
+
+
+1 
+
+2 
+3 
+
+
+Medieval period to 1520 
+Reformation period, 1520- 1640 
+Age of Stjernhjelm, 1 640- 1 740 
+Class here 17th century 
+Class 1600- 1640 in 2 
+
+
+4 
+
+
+AgeofDalin, 1740-1780 
+
+
+
+
+Class here 1 8th century 
+Class 1700-1740 in 3 
+
+
+5 
+6 
+
+
+AgeofGustavus, 1780-1800 
+1800-1900 
+
+
+7 
+
+
+1900- 
+
+
+72 
+
+
+1900-1945 
+
+
+74 
+
+
+1945- 
+
+
+
+.8 Danish and Norwegian 
+
+.81 *Danish 
+
+
+
+) TABLE 
+
+
+1 
+
+2 
+
+
+Medieval period to 1 500 
+Reformation period, 1500-1560 
+
+
+3 
+4 
+5 
+6 
+
+
+Learned period, 1 560- 1 700 
+Age of Holberg, 1700-1750 
+Period of enlightenment, 1750- 1 800 
+1800-1900 
+
+
+7 
+
+
+1900- 
+
+
+72 
+
+
+1900-1945 
+
+
+74 
+
+
+1945- 
+
+
+
+Class Dano-Norwegian literature in 839.82 
+
+.82 ^Norwegian (Bokmal, Riksmal) 
+
+Class here Dano-Norwegian literature, comprehensive works on Norwegian 
+literature 
+
+
+
+) TABLE 
+
+
+1 
+
+
+Medieval period to 1500 
+
+
+2 
+
+
+Reformation period, 1500-1560 
+
+
+3 
+
+
+Learned period, 1560-1700 
+
+
+4 
+
+
+1700-1750 
+
+
+5 
+
+
+Period of enlightenment, 1 750- 1 800 
+
+
+6 
+
+
+1800-1900 
+
+
+7 
+
+
+1900- 
+
+
+72 
+
+
+1900-1945 
+
+
+74 
+
+
+1945- 
+
+
+
+For New Norse literature, see 839. 83 
+* Add to base number as instructed at the beginning of Table 3 
+
+
+
+665 
+
+
+
+839 Dewey Decimal Classification 839 
+.83 *Norwegian (New Norse, Landsmal) 
+
+PERIOD TABLE 
+
+6 1800-1900 
+
+7 1900- 
+
+72 1900-1945 
+74 1945- 
+
+Class comprehensive works on Norwegian literature in 839.82 
+
+.9 East Germanic literatures 
+
+Examples: Burgundian, Gothic, Vandalic 
+
+840 Literatures of Romance languages French 
+literature 
+
+Class comprehensive works on Italic languages in 870 
+
+For literatures of Italian, Romanian, Rhaeto-Romanic languages, see 850; of 
+Spanish and Portuguese languages, 860 
+
+.01 -.09 Standard subdivisions of literatures of Romance languages 
+
+
+
+840.1-848.9 Subdivisions of *French literature 
+
+Base number: 84 
+
+Assign period numbers only for European countries 
+
+PERIOD TABLE FOR FRENCH 
+
+For European countries 
+
+
+
+1 
+
+2 
+
+
+Early period to 1400 
+
+Class here medieval period 
+1400-1500 
+
+
+3 
+
+
+Renaissance period, 1500-1600 
+
+
+4 
+
+5 
+
+
+Classical period, 1600-1715 
+1715-1789 
+
+
+
+
+Class here 1 8th century, Enlightment, Age of Reason 
+Class 1700-1715 in 4, 1789-1799 in 6 
+
+
+6 
+7 
+
+
+Revolution and Empire, 1789-1815 
+Constitutional monarchy, 1815-1848 
+
+Class here 19th century 
+
+Class 1 800- 1 8 1 5 in 6, 1 848- 1 899 in 8 
+
+
+8 
+
+
+1848-1900 
+
+
+9 
+
+
+1900- 
+
+
+91 
+
+
+1900-2000 
+
+
+912 1900-1945 
+
+
+
+914 1945- 
+
+(Option: Distinguish French-language literatures of specific countries by initial 
+letters, e.g., literature of Canada C840, of France F840; or class literatures not 
+requiring local emphasis in 848.99. If literatures are identified by one of these 
+methods, assign the following optional period numbers for Belgium and 
+non-European countries. Other options are described under 810-890 
+
+(continued) 
+* Add to base number as instructed at the beginning of Table 3 
+
+666 
+
+
+
+840 Romance language literatures French literature 840 
+
+
+
+840.1-848.9 Subdivisions of *French literature (continued) 
+
+(For Asian and African countries 
+
+
+
+(1 
+
+
+To 1960 
+
+
+
+
+(2 
+
+
+1960- 
+
+
+
+
+(For Belgium 
+
+
+
+
+(1 
+
+
+Early period to 
+
+
+1830 
+
+
+(2 
+
+
+1830-1900 
+
+
+
+
+
+
+Class here 19th century 
+
+
+
+
+Class 1 800- 
+
+
+1830 in 2 
+
+
+(3 
+
+
+1900- 
+
+
+
+
+(32 
+
+
+1900-1945 
+
+
+
+
+(34 
+
+
+1945- 
+
+
+
+
+(For Canada 
+
+
+
+
+(3 
+
+
+Colonial period 
+
+
+to 1867 
+
+
+(4 
+
+
+1867-1900 
+
+
+
+
+(5 
+
+
+1900- 
+
+
+
+
+(52 
+
+
+1900-1945 
+
+
+
+
+(54 
+
+
+1945- ) 
+
+
+
+
+
+Class comprehensive works in 840, Provencal literature in 849 
+
+.1-.9 Standard subdivisions; collections; history, description, critical 
+appraisal of % French literature 
+
+841 ^French poetry 
+
+842 JFrench drama 
+
+843 ^French fiction 
+
+844 JFrench essays 
+
+845 JFrench speeches 
+
+846 ^French letters 
+
+847 % French satire and humor 
+
+848 ^French miscellaneous writings 
+
+(.99) French-language literatures not requiring local emphasis 
+
+(Optional number and subdivisions; prefer 840-848 for all French-language 
+literatures. Other options are described under 810-890) 
+
+Class here literatures of specific countries, e.g., libraries emphasizing 
+literature of France may class here Belgian and Canadian literatures, and 
+libraries emphasizing Canadian literature may class here literature of France 
+
+(.991) *tFrance 
+
+* Add to base number as instructed at the beginning of Table 3 
+t (Optional number; prefer 840-848) 
+
+tAdd as instructed under 840.1-848.9 and at the beginning of Table 3 
+
+667 
+
+
+
+848 Dewey Decimal Classification 848 
+
+(.992) *tCanada 
+
+(.993) *tBelgium 
+
+C994-.999) tOther parts of the world 
+
+French-language literature except of France, Belgium, Canada 
+
+Add to 848.99 notation 4-9 from Table 2, e.g., French-language 
+literature of Tahiti 848.999621 1; then add and to the base number thus 
+derived add as instructed at the beginning of Table 3, e.g., 
+French-language drama of Tahiti 848.999621 102 
+
+849 *Proven9al and Catalan 
+
+Base number for Provencal: 849 
+
+PERIOD TABLE FOR PROVENCAL 
+
+
+
+1 
+
+
+Early period to 1 100 
+
+
+2 
+
+
+Golden age, 1100-1300 
+
+
+3 
+
+
+1300-1500 
+
+
+4 
+
+
+Decline and revival, 1500-1900 
+
+
+5 
+
+
+1900- 
+
+
+52 
+
+
+1900-1945 
+
+
+54 
+
+
+1945- 
+
+
+♦Catalan 
+
+
+l 
+
+
+PERIOD TABLE 
+
+
+
+
+1 First period to 1350 
+
+
+
+
+2 Second period, 1350- 1450 
+
+
+
+
+3 Golden age, 1450-1500 
+
+
+
+
+Class here 15th century 
+
+
+
+
+Class 1400-1450 in 3 
+
+
+
+
+4 Decline and revival, 1500-1900 
+
+
+
+
+5 1900- 
+
+
+
+
+52 1900-1945 
+
+
+
+
+54 1945- 
+
+
+
+* Add to base number as instructed at the beginning of Table 3 
+t (Optional number; prefer 840-848) 
+
+
+
+668 
+
+
+
+850 Italian, Romanian, Rhaeto -Romanic literatures 850 
+
+850 Literatures of *Italian, Romanian, Rhaeto-Romanic 
+languages 
+
+Base number for Italian: 85 
+
+PERIOD TABLE FOR ITALIAN 
+
+
+
+1 
+
+2 
+
+
+Early period to 1375 
+
+Period of classical learning, 1375-1492 
+
+
+3 
+
+
+Class here Renaissance period 
+Class later Renaissance period in 3 
+1492-1542 
+
+
+4 
+
+
+1542-1585 
+
+
+
+
+Class here 1 6th century 
+
+Class 1500-1542 in 3, 1585-1599 in 5 
+
+
+5 
+
+
+Period of decline, 1585-1748 
+
+
+6 
+
+
+Period of renovation, 1 748- 1814 
+
+
+
+
+Class here 1 8th century 
+
+
+
+
+Class 1700- 1748 in 5 
+
+
+7 
+
+
+1814-1859 
+
+
+
+
+Class here 19th century 
+
+Class 1 800- 1 8 1 4 in 6, 1 859- 1 899 in 8 
+
+
+8 
+
+
+1859-1900 
+
+
+9 
+
+
+1900- 
+
+
+91 
+
+
+1900-2000 
+
+
+912 
+
+
+1900-1945 
+
+
+914 
+
+
+1945- 
+
+
+
+Class comprehensive works on Romance languages in 840, on Italic languages in 
+870 
+
+851 \ Italian poetry 
+
+852 ^Italian drama 
+
+853 ^Italian fiction 
+
+854 % Italian essays 
+
+855 ^Italian speeches 
+
+856 X Italian letters 
+
+857 X Italian satire and humor 
+
+858 ^Italian miscellaneous writings 
+
+* Add to base number as instructed at the beginning of Table 3 
+X Add as instructed under 850 and at the beginning of Table 3 
+
+
+
+669 
+
+
+
+859 Dewey Decimal Classification 859 
+
+859 ^Romanian and Rhaeto-Romanic 
+
+Base number for Romanian: 859 
+
+PERIOD TABLE FOR ROMANIAN 
+
+1 Early period to 1800 
+
+2 1800-1900 
+
+3 1900- 
+
+32 1900-1945 
+34 1945- 
+
+.9 Rhaeto-Romanic languages 
+
+Examples: Friulian, Ladin, Romansh 
+
+860 Literatures of Spanish and Portuguese languages 
+
+.01-. 09 Standard subdivisions of literatures of Spanish and Portuguese 
+languages 
+
+
+
+860.1-868.9 Subdivisions of *Spanish literature 
+
+Class here Judeo-Spanish (Ladino), Papiamento literature 
+
+Base number: 86 
+
+Assign period numbers only for Spain 
+
+
+
+PERIOD TABLES FOR SPANISH 
+
+
+For Spain 
+
+
+1 
+
+
+Early period to 1369 
+
+
+2 
+
+
+1369-1516 
+
+
+3 
+
+
+Golden Age, 1516-1700 
+
+
+4 
+
+
+1700-1800 
+
+
+5 
+
+
+1800-1900 
+
+
+6 
+
+
+1900- 
+
+
+62 
+
+
+1900-1945 
+
+
+64 
+
+
+1945- 
+
+
+
+(Option: Distinguish Spanish-language literatures of specific countries by initial 
+letters, e.g., literature of Chile Ch860, of Colombia C086O, of Mexico M860 
+[or, of all American countries A860], of Spain S860; or class literatures not 
+requiring local emphasis in 868.99. If literatures are identified by one of these 
+methods, assign the following optional period numbers for literature of 
+American countries. Other options are described under 810-890 
+
+(continued) 
+* Add to base number as instructed at the beginning of Table 3 
+
+
+
+670 
+
+
+
+860 Literatures of Spanish and Portuguese languages 860 
+
+
+
+> 860.1-868.9 Subdivisions of *Spanish literature (continued) 
+
+(For American countries 
+
+( 1 Colonial and revolutionary period, 1519-1 826 
+(2 1826-1888 
+
+Class here 19th century 
+
+Class 1800-1826 in 1, 1888-1899 in 3 
+(3 Period of modernism and realism, 1888-1910 
+(4 1910- 
+(42 1910-1945 
+
+(44 1945- ) 
+
+Class comprehensive works in 860 
+
+.1-.9 Standard subdivisions; collections; history, description, critical 
+appraisal of ^Spanish literature 
+
+861 ^Spanish poetry 
+
+862 $ Spanish drama 
+
+863 ^Spanish fiction 
+
+864 ^Spanish essays 
+
+865 ^Spanish speeches 
+
+866 ^Spanish letters 
+
+867 ^Spanish satire and humor 
+
+868 J Spanish miscellaneous writings 
+
+(.99) Spanish-language literatures not requiring local emphasis 
+
+(Optional number and subdivisions; prefer 860-868 for all 
+Spanish-language literatures. Other options are described under 810-890) 
+
+Class here literatures of specific countries other than the country requiring 
+local emphasis, e.g., libraries emphasizing literature of Spain may class here 
+Hispanic-American literatures, and libraries emphasizing literature of 
+Mexico may class here literatures of other Hispanic-American countries and 
+of Spain 
+
+(.991) *tSpain 
+
+(.992) t Hispanic North America 
+
+Class here comprehensive works on Spanish-language literature of 
+Hispanic America 
+
+For Hispanic South America, see 868. 993 
+
+* Add to base number as instructed at the beginning of Table 3 
+
+t(Optional number; prefer 860-868) 
+
+tAdd as instructed under 860.1-868.9 and at the beginning of Table 3 
+
+
+
+671 
+
+
+
+868 Dewey Decimal Classification 868 
+
+(.992 001 -.992 08) tSubdivisions of Spanish-language literatures of Hispanic North 
+
+America 
+
+Add to base number 868.9920 as instructed at the beginning of 
+Table 3, e.g., collections of Spanish-language one-act plays of 
+Hispanic North America 868.99202041 
+
+(.992 1) *tMexico 
+
+(.992 2) tCentral America 
+
+(.992 200 1-.992 208) tSubdivisions of Spanish-language literatures of Central 
+
+America 
+
+Add to base number 868.99220 as instructed at the 
+beginning of Table 3, e.g., collections of Spanish-language 
+one-act plays of Central America 868.992202041 
+
+(.992 21-.992 27) fSpecific countries 
+
+Add to 868.9922 the numbers following —728 in notation 
+7281-7289 from Table 2, e.g., Spanish-language literature of 
+Costa Rica 868.99226; then to the base number thus derived add 
+as instructed at the beginning of Table 3, e.g., collections of 
+Spanish-language literature of Costa Rica displaying naturalism 
+868.9922608012 
+
+(.992 3) tWest Indies (Antilles) 
+
+(.992 300 1-.992 308) t Spanish-language literatures of the West Indies (Antilles) 
+
+Add to base number 868.99230 as instructed at the 
+beginning of Table 3, e.g., collections of Spanish-language 
+one-act plays of the West Indies 868.99230204108 
+
+(.992 31) *tCuba 
+
+(.992 33) *tDominican Republic 
+
+(.992 35) *tPuerto Rico 
+
+(.993) tHispanic South America 
+
+(.993 001-.993 08) tSubdivisions of Spanish-language literatures of Hispanic South 
+
+America 
+
+Add to base number 868.9930 as instructed at the beginning of 
+Table 3, e.g., collections of Spanish-language dramatic poetry 
+of Hispanic South America 868.993010208 
+
+(.993 2- .993 9) tSpecific countries 
+
+Add to 868.993 the numbers following —8 in notation 82-87, 89 
+from Table 2, e.g., Spanish-language literature of Chile 868.9933; 
+then to the base number thus derived add as instructed at the 
+beginning of Table 3, e.g., history and critical appraisal of 
+Spanish-language literature of Chile 868.993309 
+
+*Add to base number as instructed at the beginning of Table 3 
+t(Optional number; prefer 860-868) 
+
+
+
+672 
+
+
+
+868 Literatures of Spanish and Portuguese languages 868 
+
+C994-.999) tOther parts of the world 
+
+Spanish-language literature except of Spain, Hispanic America 
+
+Add to 868.99 notation 4-9 from Table 2, e.g., Spanish-language 
+literature of the United States 868.9973; then add and to the base 
+number thus derived add as instructed at the beginning of Table 3, e.g., 
+Spanish-language poetry of the United States 868.997301 
+
+869 *Portuguese 
+
+Class here Galician (Gallegan) literature 
+Assign period numbers for Portugal only 
+
+
+
+PERIOD TABLES FOR PORTUGUESE 
+
+
+
+
+For Portugal 
+
+
+
+
+1 
+2 
+
+
+Early period to 1500 
+1500-1800 
+
+
+
+
+3 
+
+
+Including classical 
+1800-1900 
+
+
+period 
+
+
+4 
+
+
+1900- 
+
+
+
+
+41 
+
+
+1900-1945 
+
+
+
+
+42 
+
+
+1945- 
+
+
+
+
+
+
+
+
+(Option: Distinguish Portuguese-language literatures of specific countries by initial 
+letters, e.g., literature of Brazil B869, of Portugal P869; or class literatures not 
+requiring local emphasis in 869.899. If literatures are identified by one of these 
+methods, assign the following optional period numbers for literature of Brazil. 
+Other options are described under 810-890 
+
+(For Brazil 
+
+( 1 Period of formation, 1 500- 1 750 
+
+(2 Period of transformation, 1 750- 1 830 
+
+(3 1830-1921 
+
+Class here 19th century 
+
+Class 1800-1830 in 2 
+(4 1921- ) 
+
+See also 860 for Papiamento literature 
+
+(.899) Portuguese-language literatures not requiring local emphasis 
+
+(Optional number and subdivisions; prefer 869.01-869.8 for all 
+Portuguese-language literatures. Other options are described under 
+810-890) 
+
+Class here literatures of specific countries other than the country 
+requiring local emphasis, e.g., libraries emphasizing literature of Portugal 
+may class here Brazilian literature, and libraries emphasizing Brazilian 
+literature may class here literature of Portugal 
+
+(.899 1) *$Portugal 
+
+(.899 2) ^Brazil 
+
+*Add to base number as instructed at the beginning of Table 3 
+t(Optional number; prefer 860-868) 
+^(Optional number; prefer 869.01-869.8) 
+
+
+
+673 
+
+
+
+869 Dewey Decimal Classification 869 
+
+(.899 4-.899 9) $Other parts of world 
+
+Portuguese-language literature except of Portugal, Brazil 
+
+Add to 869.899 notation 4-9 from Table 2, e.g., Portuguese-language 
+literature of India 869.89954; then add and to the base number thus 
+derived add as instructed at the beginning of Table 3, e.g., 
+Portuguese-language drama of India 869.8995402 
+
+870 Literatures of Italic languages Latin literature 
+
+Class comprehensive works of or on literatures of classical languages in 880 
+
+For literatures of Romance languages, see 840 
+
+.01-. 09 Standard subdivisions of literatures of Italic languages 
+
+.1-.9 Standard subdivisions, collections, history, description, critical 
+appraisal of *Latin literature 
+
+In more than one form by more than one author 
+
+Use the period table under 871-878 
+
+
+
+> 871-878 Specific forms of Latin literature 
+
+Add to base number 87 as instructed at the beginning of Table 3; however, 
+observe the special interpretations of and exceptions to notation from Table 3 
+that appear below, e.g., collections of Latin poetry of the medieval period 
+871.0308, critical appraisal of Latin epic poetry and fiction of the Roman period 
+873.0109 
+
+PERIOD TABLE FOR LATIN 
+
+1 Roman period to ca. 500 
+
+2 Pre-Carolingian period, ca. 500- ca. 750 
+
+3 Medieval period, ca. 750- 1 350 
+
+4 Modern period, 1 350- 
+
+Class comprehensive works in 870 
+
+871 tLatin poetry 
+
+For dramatic poetry, see 872; epic poetry, 873; lyric poetry, 874 
+.01-. 04 Specific periods 
+
+Use the period table under 871-878 
+
+Do not use 871.02-871.08 for specific kinds 
+
+872 tLatin dramatic poetry and drama 
+
+.01-. 04 Specific periods 
+
+Use the period table under 871-878 
+
+Do not use 872.02-872.05 for specific media, scopes, kinds 
+
+* Add to base number as instructed at the beginning of Table 3 
+^(Optional number; prefer 869.01-869.8) 
+
+
+
+674 
+
+
+
+
+
+
+873 Italic literatures Latin literature 873 
+
+873 fLatin epic poetry and fiction 
+
+.01-. 04 Specific periods 
+
+Use the period table under 871-878 
+
+Do not use 873.01-873.08 for specific scopes and types 
+
+874 JLatin lyric poetry 
+
+.01-. 04 Specific periods 
+
+Use the period table under 871-878 
+
+875 $Latin speeches 
+
+.01-. 04 Specific periods 
+
+Use the period table under 871-878 
+
+Do not use 875.01-875.06 for specific kinds 
+
+876 tLatin letters 
+
+.01-. 04 Specific periods 
+
+Use the period table under 871-878 
+
+877 i Latin satire and humor 
+
+.01-. 04 Specific periods 
+
+Use the period table under 871-878 
+
+878 iLatin miscellaneous writings 
+
+.000 1-.000 9 Standard subdivisions 
+
+.002- .008 Specific kinds 
+
+.01-. 04 Specific periods 
+
+Use the period table under 871-878 
+
+879 Literatures of other Italic languages 
+.4 Latinian literatures other than Latin 
+
+.7 Literatures of Sabellian languages 
+
+.9 Osco-Umbrian literatures 
+
+880 Literatures of Hellenic languages Classical 
+Greek literature 
+
+Class here comprehensive works of or on literatures of classical languages 
+For Latin literature, see 870 
+.01-. 09 Standard subdivisions of classical literatures 
+$Add as instructed under 871-878 and at the beginning of Table 3 
+
+
+
+675 
+
+
+
+880 Dewey Decimal Classification 880 
+
+.1-.9 Standard subdivisions, collections, history, description, critical 
+appraisal of ^classical Greek literature 
+
+In more than one form by more than one author 
+
+Use the period table under 881-888 
+
+
+
+> 881-888 Specific forms of classical Greek literature 
+
+Add to base number 88 as instructed at the beginning of Table 3; however, 
+observe the special interpretations of and exceptions to notation from Table 3 
+that appear below, e.g., collections of classical Greek poetry of the medieval 
+and Byzantine periods 881.0208, critical appraisal of classical Greek epic 
+poetry and fiction of the ancient period 883.0109 
+
+PERIOD TABLE FOR CLASSICAL GREEK 
+
+1 Ancient period to ca. 500 
+
+2 Medieval and Byzantine periods, ca. 500-1600 
+
+3 Modern period, 1 600- 
+
+Class comprehensive works in 880 
+
+881 ^Classical Greek poetry 
+
+For dramatic poetry, see 882; epic poetry, 883; lyric poetry, 884 
+.01-. 03 Specific periods 
+
+Use the period table under 881-888 
+
+Do not use 881.02-881.08 for specific kinds 
+
+882 ^Classical Greek dramatic poetry and drama 
+
+.01-. 03 Specific periods 
+
+Use the period table under 881-888 
+
+Do not use 882.02-882.05 for specific media, scopes, kinds 
+
+883 f Classical Greek epic poetry and fiction 
+
+.01-. 03 Specific periods 
+
+Use the period table under 881-888 
+
+Do not use 883.01-883.08 for specific scopes and types 
+
+884 t Classical Greek lyric poetry 
+
+.01-. 03 Specific periods 
+
+Use the period table under 881-888 
+
+* Add to base number as instructed at the beginning of Table 3 
+tAdd as instructed under 881-888 and at the beginning of Table 3 
+
+
+
+676 
+
+
+
+885 Hellenic literatures Classical Greek literature 885 
+
+885 ^Classical Greek speeches 
+
+.01-. 03 Specific periods 
+
+Use the period table under 881-888 
+
+Do not use 885.01-885.06 for specific kinds 
+
+886 i Classical Greek letters 
+
+.01-. 03 Specific periods 
+
+Use the period table under 881-888 
+
+887 i Classical Greek satire and humor 
+
+.01-. 03 Specific periods 
+
+Use the period table under 881-888 
+
+888 ^Classical Greek miscellaneous writings 
+
+.000 1-.000 9 Standard subdivisions 
+
+.002-.008 Specific kinds 
+
+.01-. 03 Specific periods 
+
+Use the period table under 881-888 
+
+889 *Modern Greek 
+
+Class here Katharevusa and Demotic 
+
+PERIOD TABLE 
+
+1 Early period to 1821 
+
+2 1821-1900 
+
+3 1900- 
+
+32 1900-1945 
+34 1945- 
+
+890 Literatures of other languages 
+
+SUMMARY 
+
+891 East Indo-European and Celtic literatures 
+
+892 Afro-Asiatic (Hamito-Semitic) literatures Semitic literatures 
+
+893 Non-Semitic Afro-Asiatic literatures 
+
+894 Ural-Altaic, Paleosiberian, Dravidian literatures 
+
+895 Literatures of East and Southeast Asia Sino-Tibetan literatures 
+
+896 African literatures 
+
+897 Literatures of North American native languages 
+
+898 Literatures of South American native languages 
+
+899 Literatures of nonaustronesian languages of Oceania, of Austronesian 
+
+languages, of miscellaneous languages 
+
+* Add to base number as instructed at the beginning of Table 3 
+tAdd as instructed under 881-888 and at the beginning of Table 3 
+
+
+
+677 
+
+
+
+891 Dewey Decimal Classification 891 
+
+891 East Indo-European and Celtic literatures 
+SUMMARY 
+
+891.1 Indo-Iranian (Aryan) literatures 
+
+.2 Sanskrit 
+
+.3 Middle Indie literatures (Secondary Prakrits) 
+
+.4 Modern Indie literatures (Tertiary Prakrits) 
+
+.5 Iranian literatures 
+
+.6 Celtic literatures 
+
+.7 East Slavic literatures Russian 
+
+.8 Slavic literatures 
+
+.9 Baltic and other Indo-European literatures 
+
+.1 Indo-Iranian (Aryan) literatures 
+
+For Indie (Indo-Arvan) literatures, see 891 .2-891.4; Iranian literatures, 
+891.5 
+
+
+
+> 891.2-891.4 Indie (Indo-Aryan) literatures 
+
+Class comprehensive works in 891.1 
+.2 *Sanskrit 
+
+Class here Vedic (Old Indie) literature, classical Sanskrit literature 
+.3 Middle Indie literatures (Secondary Prakrits) 
+
+Class here comprehensive works on Prakrit literatures 
+
+Class tertiary Prakrit literatures in 89 1 .4 
+.37 *Pali 
+
+.4 Modern Indie literatures (Tertiary Prakrits) 
+
+PERIOD TABLE FOR SPECIFIC MODERN INDIC LITERATURES 
+
+1 To 1345 
+
+2 1345-1645 
+
+3 1645-1845 
+
+4 1845-1895 
+
+Class here 19th century 
+
+Class 1800-1845 in 3, 1895-1899 in 5 
+
+5 1895-1920 
+
+6 1920-1940 
+
+7 1940- 
+
+Class here 20th century 
+
+Class 1900-1920 in 5, 1920-1940 in 6 
+
+(Option: Treat literatures of all *modern Indie languages as literature of one 
+language, with base number 891.4) 
+
+.41 *Sindhi and Lahnda 
+
+Base number for Sindhi: 891.41 
+
+Use the period table under 89 1 .4 
+
+* Add to base number as instructed at the beginning of Table 3 
+
+678 
+
+
+
+891 Literatures of other languages 891 
+
+.419 *Lahnda 
+
+Use the period table under 891.4 
+.42 *Panjabi 
+
+Use the period table under 891.4 
+.43 Western Hindi literatures Hindi 
+
+.430 01 -.430 09 Standard subdivisions of Western Hindi literatures 
+
+.430 1 - .438 Subdivisions of *Hindi 
+
+Base number: 891.43 
+Use the period table under 891.4 
+.439 *Urdu 
+
+Use the period table under 891.4 
+.44 *Bengali 
+
+Use the period table under 891.4 
+Class Assamese literature in 891.451 
+.45 Assamese, Bihari, Oriya 
+
+.45 1 * Assamese 
+
+Use the period table under 891.4 
+.454 *Bihari 
+
+Class here literatures in Bhojpuri, Magahi, Maithili 
+Use the period table under 891.4 
+.46 *Marathi 
+
+Class here Konkani literature 
+Use the period table under 891.4 
+.47 *Gujarati and Rajasthani 
+
+Base number for Gujarati: 891.47 
+Use the period table under 891.4 
+.479 *Rajasthani 
+
+Class here Jaipuri, Marwari literatures 
+Use the period table under 891.4 
+.48 *Sinhalese 
+
+Class here Mahl (Maldivian), Sinhalese-Maldivian literatures 
+Use the period table under 891.4 
+* Add to base number as instructed at the beginning of Table 3 
+
+
+
+679 
+
+
+
+891 Dewey Decimal Classification 891 
+
+.49 Other Indie (Indo- Aryan) literatures 
+
+Examples: Eastern Hindi, Nepali, Pahari 
+
+Including literatures in Awadhi, Bagheli, Chattisgarhi 
+
+See also 895.49 for literatures of Himalayan languages, e.g., Newari 
+.499 Dardic (Pisacha) literatures 
+
+Examples: Kashmiri, Khowar, Kohistani, Shina 
+Including Kafiri, Romany (Gypsy) 
+.5 Iranian literatures 
+
+.51 *01d Persian 
+
+Class here ancient West Iranian literatures 
+See also 891.52 for Avestan literature 
+.52 *Avestan 
+
+Class here ancient East Iranian literatures 
+.53 Middle Iranian literatures 
+
+Examples: Khotanese (Saka), Pahlavi (Middle Persian), Sogdian 
+.55 *Modern Persian (Farsi) 
+
+PERIOD TABLE 
+
+1 Period of formal development, ca. 1000- 1 389 
+
+2 Period of traditionalism, 1 389- 1 900 
+
+3 1900- 
+
+Class Tajik literature in 891.59 
+.59 Other modern Iranian literatures 
+
+Examples: Baluchi, Kurdish, Ossetic, Tajik, Yaghnobi 
+.593 Pamir (Galcha) literatures Pashto (Afghan) 
+
+.593 001 -.593 009 Standard subdivisions of Pamir (Galcha) literatures 
+
+.593 01 -.593 8 Subdivisions of *Pashto (Afghan) literature 
+
+.6 Celtic literatures 
+
+Example: Gaulish 
+.62 *Irish Gaelic 
+
+PERIOD TABLE 
+
+1 Early period to 1171 
+
+2 Period of decline, 1 1 7 1 - 1 700 
+
+3 Period of renaissance, 1 700- 1 850 
+
+4 Modern period, 1 850- 
+
+*Add to base number as instructed at the beginning of Table 3 
+
+
+
+680 
+
+
+
+891 Literatures of other languages 891 
+
+
+
+.63 
+
+
+*Scottish Gaelic 
+
+
+
+
+PERIOD TABLE 
+
+
+
+
+1 
+
+2 
+
+
+Early period to 1600 
+Renaissance, 1600-1830 
+
+
+
+
+3 
+
+
+Modern period, 1830- 
+Including 19th century 
+Class 1800- 1830 in 2 
+
+
+.64 
+
+
+*Manx 
+
+
+
+
+.66 
+
+
+*Welsh (Cymric) 
+
+
+
+
+PERIOD TABLE 
+
+
+
+
+1 
+
+2 
+
+
+Early period to 1600 
+1600- 
+
+
+.67 
+
+
+*Cornish 
+
+
+
+
+.68 
+
+
+*Breton 
+
+
+
+
+
+
+PERIOD TABLE 
+
+
+
+
+1 
+
+2 
+
+
+Early period to 1800 
+1800-1900 
+
+
+
+
+3 
+
+
+1900- 
+
+
+
+.7 East Slavic literatures Russian 
+
+.700 1-.700 9 Standard subdivisions of East Slavic literatures 
+
+.701-. 78 Subdivisions of *Russian 
+
+Base number: 891.7 
+
+PERIOD TABLE 
+
+1 Early period to 1700 
+
+2 1700-1800 
+
+3 1800-1917 
+
+4 1917- 
+
+42 1917-1945 
+44 1945- 
+
+.79 *Ukrainian and Belorussian 
+
+Base number for Ukrainian: 891.79 
+
+PERIOD TABLE 
+
+1 Early period to 1798 
+
+2 1798-1917 
+
+3 1917- 
+
+.799 *Belorussian 
+
+PERIOD TABLE 
+
+1 Early period to 1798 
+
+2 1798-1917 
+
+3 1917- 
+
+*Add to base number as instructed at the beginning of Table 3 
+
+
+
+681 
+
+
+
+891 Dewey Decimal Classification 891 
+
+.8 Slavic literatures 
+
+Class here comprehensive works on literatures of Balto-Slavic languages 
+For East Slavic literatures, see 891. 7; Baltic literatures, 891.91-891.93 
+.81 South Slavic literatures Bulgarian 
+
+For Serbo-Croatian, see 891.82; Slovenian, 891.84 
+.810 01 -.8 10 09 Standard subdivisions of South Slavic literatures 
+
+.810 1— .818 Subdivisions of *Bulgarian 
+
+Base number: 891.81 
+
+PERIOD TABLE 
+
+1 Early period to 1850 
+
+2 1850-1900 
+
+3 1900- 
+
+.819 *Macedonian 
+
+.82 *Serbo-Croatian 
+
+PERIOD TABLE 
+
+1 Early period to ca. 1550 
+
+2 Period of renaissance, ca. 1 550- 1 700 
+
+3 1700-1800 
+
+4 1800-1900 
+
+5 1900- 
+
+.84 *Slovenian 
+
+PERIOD TABLE 
+
+1 Early period to ca. 1550 
+
+2 Period of renaissance, ca. 1550-1700 
+
+3 1700-1800 
+
+4 1800-1900 
+
+5 1900- 
+
+.85 West Slavic literatures Polish 
+
+Including Kashubian 
+
+For Czech, see 891.86; Slovak, 891.87; Wendish, 891.88; Polabian, 
+891.89 
+
+.850 1 - .850 09 Standard subdivisions of West Slavic literatures 
+
+.850 1-.858 Subdivisions of *Polish 
+
+Base number: 891.85 
+
+
+
+PERIOD TABLE 
+
+
+1 
+
+
+Early period to 1400 
+
+
+2 
+
+
+Period of development, 1400-1500 
+
+
+3 
+
+
+Golden age, 1500-1600 
+
+
+4 
+
+
+Period of decline, 1 600- 1 700 
+
+
+5 
+
+
+1700-1795 
+
+
+6 
+
+
+Period of renaissance, 1 795- 1919 
+
+
+7 
+
+
+1919- 
+
+
+
+*Add to base number as instructed at the beginning of Table 3 
+
+682 
+
+
+
+891 Literatures of other languages 891 
+
+.86 *Czech 
+
+For literature in Moravian dialects, see 891.87 
+
+PERIOD TABLE 
+
+1 Early period to 1400 
+
+2 Reformation period, 1 400- 1 450 
+
+3 Humanist period, 1 450- 1 620 
+
+4 Period of decline, 1 620- 1 900 
+
+5 1900- 
+
+.87 *Slovak 
+
+Class here literature in Moravian dialects 
+.88 *Wendish (Sorbian, Lusatian) 
+
+.89 *Polabian 
+
+.9 Baltic and other Indo-European literatures 
+
+
+
+891.91-891.93 Baltic literatures 
+Class comprehensive works in 891.9 
+
+
+
+.91 
+
+
+Old Prussian 
+
+
+.92 
+
+
+Lithuanian 
+
+
+
+
+PERIOD TABLE 
+
+
+
+
+1 Early period to 1800 
+
+2 1800-1900 
+
+
+
+
+3 1900- 
+
+
+.93 
+
+
+*Latvian (Lettish) 
+
+
+
+
+PERIOD TABLE 
+
+
+
+
+1 Early period to 1800 
+
+2 1800-1900 
+
+
+
+
+3 1900- 
+
+
+.99 
+
+
+Other Indo-European literatures 
+
+
+.991 
+
+
+* Albanian 
+
+
+.992 
+
+
+*Armenian 
+
+
+
+
+PERIOD TABLE 
+
+
+
+
+1 Early period to 600 
+
+2 600-1000 
+
+
+
+
+3 1000-1400 
+
+
+
+
+4 1400-1850 
+
+
+
+
+5 Modern period, 1850- 
+
+
+.993-. 998 Other 
+
+
+
+Add to 891.99 the numbers following —9199 in notation 91993-91998 
+from Table 6, e.g., Hittite 891.998 
+
+
+
+! Add to base number as instructed at the beginning of Table 3 
+
+
+
+683 
+
+
+
+892 Dewey Decimal Classification 892 
+
+892 Afro-Asiatic (Hamito-Semitic) literatures Semitic 
+literatures 
+
+For non-Semitic Afro-Asiatic literatures, see 893 
+.1 East Semitic literatures Akkadian literature 
+
+Class here literatures in Assyrian, Babylonian, Chaldean dialects of Akkadian 
+See also 892.2 for Aramaic, 899. 95 for Sumerian 
+
+
+
+892.2-892.9 West Semitic literatures 
+
+Class comprehensive works in 892 
+
+
+
+892.2-892.6 Northwest Semitic literatures 
+
+Class comprehensive works in 892 
+.2 Aramaic literatures 
+
+For Eastern Aramaic literatures, see 892.3 
+.29 Western Aramaic literatures 
+
+Former heading: Biblical Aramaic (Chaldee) and Samaritan 
+
+
+
+.3 
+
+
+Eastern Aramaic literatures Syriac 
+
+
+.4 
+
+
+*Hebrew 
+
+
+
+
+
+
+PERIOD TABLE 
+
+
+
+
+1 
+
+
+Early period to 700 
+
+
+
+
+2 
+
+
+Medieval period, 700-1700 
+
+
+
+
+3 
+
+
+170O-1820 
+
+
+
+
+4 
+
+
+1820-1885 
+
+Class here 1 9th century 
+
+Class 1800-1820 in 3, 1885-1899 in 5 
+
+
+
+
+5 
+
+
+1885-1947 
+
+
+
+
+6 
+
+
+1947- 
+
+Class here 20th century 
+Class 1900- 1947 in 5 
+
+
+
+Canaanite-Phoenician literatures 
+
+Examples: Eblaite, Ugaritic literatures 
+
+Class here comprehensive works on Canaanitic literatures 
+
+For Hebrew, see 892. 4 
+
+See also 899. 95 for Sumerian literature 
+
+
+
+> 892.7-892.9 Southwest Semitic literatures 
+
+Class comprehensive works in 892 
+*Add to base number as instructed at the beginning of Table 3 
+
+684 
+
+
+
+892 Literatures of other languages 892 
+
+.7 *Arabic 
+
+Class here Maltese literature 
+
+PERIOD TABLE 
+
+1 Pre-Islamic period to 622 
+
+2 Early Islamic and Mukhadrami period, 622-661 
+
+Class here 7th century 
+
+Class 600-622 in 1, 661-699 in 32 
+
+3 661-1258 
+
+32 Umayyad period, 661-750 
+34 Abbasid period, 750-1258 
+
+4 Period of decline, 1 258- 1 800 
+
+5 Period of renaissance, 1 800- 1 945 
+
+6 Contemporary period, 1945- 
+
+.8 Ethiopic literatures 
+
+Examples: Geez, Gurage, Harari, Tigre, Tigrinya 
+.87 *Amharic 
+
+.9 South Arabic literatures 
+
+Examples: Mahri, Qarawi, Shkhauri, Sokotri 
+
+893 Non-Semitic Afro-Asiatic literatures 
+
+Former heading: Hamitic and Chad literatures 
+
+Add to 893 the numbers following —93 in notation 931-937 from Table 6, e.g., 
+Somali literature 893.5 
+
+Base number for *Coptic: 893.2 
+
+Base number for *Hausa: 893.72 
+
+894 Ural-Altaic, Paleosiberian, Dravidian literatures 
+.1-.3 Altaic literatures 
+
+Add to 894 the numbers following —94 in notation 941-943 from Table 6, e.g., 
+Mongolian literature 894.2 
+
+Base number for *Turkish (Osmanli): 894.35 
+
+PERIOD TABLE FOR TURKISH (OSMANLI) 
+
+1 Early period to 1500 
+
+2 1500-1850 
+
+3 Modern period, 1850- 
+
+Including 19th century 
+Class 1800-1850 in 2 
+
+Base number for *Azerbaijani: 894.361 
+
+Class comprehensive works in 894; Japanese in 895.6; Korean in 895.7 
+
+* Add to base number as instructed at the beginning of Table 3 
+
+
+
+685 
+
+
+
+894 Dewey Decimal Classification 894 
+
+
+
+894.4-894.5 Uralic literatures 
+
+Class comprehensive works in 894 
+.4 Samoyedic literatures 
+
+.5 Finno-Ugric literatures 
+
+.5 1 Ugric literatures 
+
+Examples: Ostyak, Vogul 
+.5 1 1 *Hungarian (Magyar) 
+
+PERIOD TABLE 
+
+1 Early period to 1800 
+
+2 1800-1900 
+
+3 1900- 
+
+.53 Permian literatures 
+
+Contains Votyak (Udmurt), Zyrian 
+.54 Finnic literatures 
+
+Examples: Karelian, Livonian, Veps 
+
+For Lapp, see 894.55; Middle Volga literatures, 894.56 
+.541 *Finnish (Suomi) 
+
+
+
+
+
+PERIOD TABLE 
+
+1 Early period to 1800 
+
+2 1800-1900 
+
+3 1900- 
+
+
+.545 
+
+
+*Estonian 
+
+
+
+
+PERIOD TABLE 
+
+1 Early period to 1861 
+
+2 Modern period, 1861 
+
+
+.55 
+
+
+*Lapp 
+
+
+.56 
+
+
+Middle Volga literatures 
+
+
+
+Examples: Mari, Mordvin 
+.6 Paleosiberian (Hyperborean) literatures 
+
+Including Ainu literature 
+: Add to base number as instructed at the beginning of Table 3 
+
+
+
+686 
+
+
+
+894 Literatures of other languages 894 
+
+.8 Dravidian literatures 
+
+PERIOD TABLE FOR SPECIFIC DRAVIDIAN LITERATURES 
+
+1 To 1345 
+
+2 1345-1645 
+
+3 1645-1845 
+
+4 1845-1895 
+
+Class here 19th century 
+
+Class 1800-1845 in 3, 1895-1899 in 5 
+
+5 1895-1920 
+
+6 1920-1940 
+
+7 1940- 
+
+Class here 20th century 
+
+Class 1900-1920 in 5, 1920-1940 in 6 
+
+(Option: Treat literatures of all *Dravidian languages as literature of one 
+language, with base number 894.8) 
+
+.81 South Dravidian literatures 
+
+Examples: Kota, Toda 
+
+Class here literatures of the Dravida group 
+
+Kurukh (Oraon), Malto literatures relocated to 894.83 
+
+.811 *Tamil 
+
+Use the period table under 894.8 
+
+.812 *Malayalam 
+
+Use the period table under 894.8 
+
+.814 *Kannada (Kanarese) 
+
+Use the period table under 894.8 
+
+.82 Central Dravidian literatures 
+
+Former heading: Andhra group 
+
+.823 *Gondi 
+
+Use the period table under 894.8 
+
+.824 *Khond (Kandh) 
+
+Use the period table under 894.8 
+
+.827 *Telugu 
+
+Use the period table under 894.8 
+
+.83 North Dravidian literatures Brahui 
+
+Examples: Kurukh (Oraon), Malto [both formerly 894.81] 
+
+.830 01-. 830 09 Standard subdivisions of North Dravidian literatures 
+
+* Add to base number as instructed at the beginning of Table 3 
+
+
+
+687 
+
+
+
+894 Dewey Decimal Classification 894 
+
+.830 1-.838 Subdivisions of *Brahui 
+
+Use the period table under 894.8 
+Base number: 894.83 
+
+895 Literatures of East and Southeast Asia Sino-Tibetan 
+literatures 
+
+Example: Miao (Hmong) literature 
+
+Here are classed literatures of South Asian languages closely related to the 
+languages of East and Southeast Asia 
+
+Class literature of Malay languages in 899.2 
+.1 *Chinese 
+
+PERIOD TABLE 
+
+1 Origins, 15th century to 221 B.C. 
+
+221-200 B.C. relocated to 22 
+Class here the classical age 
+
+2 221b.c.-618a.d. 
+
+Class here the middle epoch 
+
+618-699 A.D. relocated to 3 
+22 Period of Chin and Han dynasties, 221 B.C.- 220 ad. 
+
+Including 221-200 B.C. [formerly 1] 
+24 Period of Six Dynasties and Sui dynasty, 220-6 1 8 A.D. 
+
+3 Period of Tang and Five dynasties, 618-960 
+
+Including 618-699 [formerly 2] 
+
+Class here renaissance and neoclassicism 
+
+4 960-1912 
+
+42 Period of Sung dynasty, 960- 1 279 
+
+44 Period of Yuan (Mongol) dynasty, 1271-1368 
+
+Class period of Yuan dynasty during 1271-1279 in 42 
+46 Period of Ming dynasty, 1 368- 1 644 
+48 Period of Ch'ing (Manchu) dynasty, 1644- 1912 
+
+5 Modern Chinese literature, 1912- 
+
+51 1912-1949 
+
+52 1949- 
+
+.4 Tibeto-Burman literatures Tibetan 
+
+Examples: literatures of the Bodo-Naga-Kachin, Kuki-Chin, Loloish languages 
+For Burmese, see 895. 8 
+.400 1-.400 9 Standard subdivisions of Tibeto-Burman literatures 
+
+.40 1 - .48 Subdivisions of *Tibetan 
+
+Base number: 895.4 
+.49 Literatures of Himalayan (Gyarung-Mishmi) languages 
+
+Example: Newari 
+
+See also 89 J .49 for Nepali literature 
+* Add to base number as instructed at the beginning of Table 3 
+
+
+
+688 
+
+
+
+895 Literatures of other languages 895 
+
+.6 * Japanese 
+
+
+
+PERIOD TABLE 
+
+
+1 
+
+
+Early period to 1185 
+
+
+14 
+
+
+Heian period, 794-1185 
+
+
+2 
+
+
+Medieval period, 1 185-1603 
+
+
+22 
+
+
+Kamakura period, 1 185- 1334 
+
+
+24 
+
+
+1334-1603 
+
+
+
+
+Class here Muromachi period 
+
+
+3 
+
+
+Tokugawa (Edo) period, 1603-1868 
+
+
+32 
+
+
+1603-1770 
+
+
+
+
+Including Genroku period 
+
+
+34 
+
+
+1770-1868 
+
+
+4 
+
+
+1868-1945 
+
+
+
+
+Including Bunka-Bunsei period (1804-183C 
+
+
+42 
+
+
+Meiji period, 1868-1912 
+
+
+44 
+
+
+1912-1945 
+
+
+
+
+Class here 20th century 
+
+
+
+
+Class 1900-1912 in 42, 1945-1999 in 5 
+
+
+5 
+
+
+1945- 
+
+
+rvuicdii 
+
+PERIOD TABLE 
+
+
+1 
+
+
+Early period to 1 392 
+
+
+2 
+
+
+Yi period, 1392-1910 
+
+
+28 
+
+
+Transition period, 1894-1910 
+
+
+3 
+
+
+1910-1945 
+
+
+4 
+
+
+1945- 
+
+
+
+
+Class here 20th century 
+
+
+
+
+Class 1900-1910 in 28, 1910-1945 in 3 
+
+
+*Burmese 
+
+
+
+
+PERIOD TABLE 
+
+
+1 
+
+
+Early period to 1800 
+
+
+2 
+
+
+1800-1900 
+
+
+3 
+
+
+1900- 
+
+
+
+* Add to base number as instructed at the beginning of Table 3 
+
+
+
+689 
+
+
+
+895 Dewey Decimal Classification 895 
+
+.9 Literatures of miscellaneous languages of Southeast Asia; Munda 
+
+literatures 
+
+Limited to the literatures named below 
+
+Class Malay literatures in 899.2 
+
+.91 Thai (Tai) literatures Thai (Siamese) 
+
+Class Annam-Muong literatures in 895.92 
+
+.910 01 -.9 10 09 Standard subdivisions of literatures of Thai languages 
+
+.9 1 1 - .9 1 8 Subdivisions of *Thai (Siamese) 
+
+Base number: 895.91 
+
+PERIOD TABLE 
+
+1 Early period to 1800 
+
+2 1800-1900 
+
+3 1900- 
+
+.9 1 9 Other Thai (Tai) literatures 
+
+Examples: Ahom, Khamti, Lao, Shan 
+
+Use of this number for Karen discontinued; class in 895 
+
+Class Annam-Muong literatures in 895.92 
+
+.92-. 95 Annam-Muong, Mon-Khmer, Munda literatures 
+
+Add to 895.9 the numbers following —959 in notation 9592-9595 from 
+Table 6, e.g., Mundari literature 895.95 
+
+Base number for *Vietnamese (Annamese): 895.922 
+
+PERIOD TABLE FOR VIETNAMESE (ANNAMESE) 
+
+1 Early period to 1800 
+
+2 1800-1900 
+
+3 1900- 
+
+Base number for *Khmer (Cambodian): 895.932 
+* Add to base number as instructed at the beginning of Table 3 
+
+
+
+690 
+
+
+
+896 Literatures of other languages 896 
+
+896 African literatures 
+
+Add to 896 the numbers following —96 in notation 961-965 from Table 6, e.g., 
+Mandingo literature 896.34 
+
+(Option: Treat literatures of all * African languages as literature of one 
+
+language, with base number 896) 
+
+Base number for *Wolof: 896.3214 
+
+Base number for *Fulani (Fulah): 896.322 
+
+Base number for *Ibo (Igbo): 896.332 
+
+Base number for *Yoruba: 896.333 
+
+Base number for *Ewe: 896.3374 
+
+Base number for *Akan: 896.3385 
+
+Base number for *Bemba: 896.3915 
+
+Base number for *Nyanja: 896.3918 
+
+Base number for *Swahili: 896.392 
+
+Base number for *Kongo: 896.3931 
+
+Base number for *Ruanda: 896.39461 
+
+Base number for *Rundi: 896.39465 
+
+Base number for *Kikuyu: 896.3954 
+
+Base number for *Ganda (Luganda): 896.3957 
+
+Base number for *Lingala: 896.39686 
+
+Base number for *Shona: 896.3975 
+
+Base number for *Northern Sotho: 896.39771 
+
+Base number for *Southern Sotho: 896.39772 
+
+Base number for *Tswana: 896.39775 
+
+Base number for *Xhosa: 896.3985 
+
+Base number for *Zulu: 896.3986 
+
+PERIOD TABLE FOR SPECIFIC AFRICAN LITERATURES 
+
+1 To 1960 
+
+2 1960- 
+
+For Ethiopia literatures, see 892. 8; non-Semitic Afro-Asiatic literatures, 893 
+* Add to base number as instructed at the beginning of Table 3 
+
+
+
+691 
+
+
+
+897 Dewey Decimal Classification 897 
+
+897 Literatures of North American native languages 
+
+Example: Tarascan 
+
+Class here comprehensive works on literatures of North and South American native 
+languages 
+
+Add to 897 the numbers following —97 in notation 971-979 from Table 6, e.g., 
+Macro-Penutian literatures 897.4 
+
+(Option: Treat literatures of all *North American native languages as literature 
+
+of one language, with base number 897) 
+
+For literatures of South American native languages, see 898 
+
+898 Literatures of South American native languages 
+
+Examples: Hishkaryana; Penutian literatures of South America 
+
+Add to 898 the numbers following —98 in notation 982-984 from Table 6, e.g., 
+Guarani literature 898.3 
+
+(Option: Treat literatures of all *South American native languages as literature 
+
+of one language, with base number 898) 
+
+Base number for *Quechua: 898.323 
+
+Class comprehensive works on literatures of North and South American native 
+languages in 897 
+
+899 Literatures of nonaustronesian languages of Oceania, of 
+Austronesian languages, of miscellaneous languages 
+
+Add to 899 the numbers following —99 in notation 991-999 from Table 6, e.g., 
+Polynesian literatures 899.4 
+
+Use of this number for literatures of other languages discontinued; class in 890 
+
+Base number for *Tagalog (Filipino): 899.21 1 
+
+PERIOD TABLE FOR TAGALOG (FILIPINO) 
+
+1 Early period to 1800 
+
+2 1800-1900 
+
+3 1900- 
+
+Base number for Indonesian (Bahasa Indonesia): 899.221 
+
+PERIOD TABLE FOR INDONESIAN (BAHASA INDONESIA) 
+
+1 Early period to 1900 
+
+2 1900- 
+
+Base number for * Javanese: 899.222 
+Base number for *Malay (Bahasa Malaysia): 899.28 
+Base number for *Malagasy: 899.3 
+Base number for *Basque: 899.92 
+Base number for *Sumerian: 899.95 
+Base number for *Esperanto: 899.992 
+Base number for *Interlingua: 899.993 
+* Add to base number as instructed at the beginning of Table 3 
+
+692 
+
+
+
